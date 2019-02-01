@@ -81,13 +81,12 @@ h6 {
 }
 
 .vl {
-  padding-top: 500px;
   border-left: 2px solid grey;
   height: 500px;
   position: absolute;
   left: 50%;
   margin-left: -3px;
-  top: 0;
+  top: 100;
 }
 
 h5
