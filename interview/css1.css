@@ -20,6 +20,9 @@ p{
   line-height: 17px;
 }
 
+.pad {
+  padding-top: 30px;
+}
 /*
 h2 {
   text-align: 300px;
