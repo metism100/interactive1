@@ -41,7 +41,9 @@ header
 }
 
 html { 
-  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) url(back.gif) no-repeat center center fixed; 
+  background: url(back.gif) no-repeat center center fixed; 
+  height: 100vh;
+  background-position: center;
   background-size: cover;
 }
 
