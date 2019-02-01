@@ -21,7 +21,7 @@ a:hover {
   border-bottom: none;
 }
 
-body, h1, h2, h3, h4, pre, code {
+h1,  code {
     font-family: 'Comic Sans MS', 'Arial', 'Arial', monospace;
     font-size: 15px;
     line-height: 18px;
