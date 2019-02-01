@@ -44,7 +44,7 @@ html {
   background: url(back.gif) no-repeat center center fixed; 
   height: 100vh;
   background-position: center;
-  background-size: cover;
+  background-size: 100px 300px;
 }
 
 body {
