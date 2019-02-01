@@ -21,6 +21,9 @@ body {
   background-color: white;
 }
 
+p{
+  font-family: "Arial", sans-serif;
+}
 
 /*
 h2 {
