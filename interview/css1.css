@@ -7,15 +7,6 @@
 
 /* begin styles */
 
-var myElement = $('.js_my-element');
-
-$(window).on('scroll', function() {
-    var st = $(this).scrollTop();
-    myElement.css({
-        'opacity' : 1 - st/600
-    });
-});
-
 body { 
   font-family: "Arial", sans-serif;
   background-color: white;
@@ -63,6 +54,7 @@ h6
 }
 
 h3{
+  float: right;
   color: black;
   font-size: 13px;
   font-family: "Arial", sans-serif;
