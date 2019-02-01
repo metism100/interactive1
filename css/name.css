@@ -24,13 +24,14 @@ a:hover {
 h1 {
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 100px;
+  font-kerning: 100px;
   color: red;
 }
 h3 {
   font-family: "Impact", Charcoal, sans-serif;
   color: orange;
   font-size: 50px;
-  font-kerning: 10000px;
+  font-kerning: 100px;
 }
 p {
   font-family: "Arial", Times, serif;
