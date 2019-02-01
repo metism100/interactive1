@@ -8,7 +8,7 @@
 /* begin styles */
 
 body { 
-  background-image: url("cherrycopy.jpg");
+  /*background-image: url("cherrycopy.jpg");*/
 }
 
 body {
@@ -32,9 +32,9 @@ a:hover {
 }
 
 h1 {
-  font-family: "Gill Sans", cursive, sans-serif;
+  font-family: "Optima", cursive, sans-serif;
   font-size: 100px;
-  color: red;
+  color: black;
 }
 h3 {
   font-family: "Impact", Charcoal, sans-serif;
