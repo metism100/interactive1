@@ -20,6 +20,11 @@ body {
 }
 p{  text-decoration: underline;}
 
+ul.a {
+  list-style-type: circle;
+}
+
+
 a:hover {
   color: purple;
   border-bottom: none;
