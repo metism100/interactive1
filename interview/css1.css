@@ -29,6 +29,11 @@ p1{
   padding-left: 50px;
 }
 
+h4
+{
+  text-align: right;
+}
+
 h6
 {
   float: left;
