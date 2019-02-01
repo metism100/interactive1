@@ -8,7 +8,7 @@
 /* begin styles */
 
 body { 
-  /*background-image: url("cherrycopy.jpg");*/
+  background-color: black;
 }
 
 header
@@ -55,5 +55,5 @@ header
 {
   width: 150px;
   height: auto;
-  float: right;
+  float: left;
 }
