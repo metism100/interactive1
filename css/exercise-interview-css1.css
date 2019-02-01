@@ -49,3 +49,19 @@ header
 {
     border: 1px solid white;
 }
+
+html { 
+  background: url(back.gif) no-repeat center center fixed; 
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+body {
+  color: red;
+  font-size: 30px;
+  font-weight: thin;
+  font-stretch: extra-expanded;
+}
+p{  color: blue;
+    }
