@@ -21,10 +21,9 @@ header
 
 .main-nav
 {
-  margin-left: 200px;
-  float: center;
+  float: right;
   list-style: none;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .main-nav li
