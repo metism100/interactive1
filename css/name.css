@@ -40,6 +40,23 @@ header
 	font-size: 15px;
 }
 
+.main-nav li.active a
+{
+	border: 1px solid white;
+}
+
+.main-nav li a:hoover
+{
+	border: 1px solid white;
+}
+
+.logo img
+{
+	width: 150px;
+	height: auto;
+	float: left;
+}
+
 html { 
   background: url(back.gif) no-repeat center center fixed; 
   height: 100vh;
