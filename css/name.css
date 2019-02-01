@@ -12,7 +12,8 @@ body {
 }
 
 body {
-	border: 10px;
+	outline-style: dashed;
+outline-color: pink;
   color: red;
   font-size: 30px;
   font-weight: thin;
