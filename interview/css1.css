@@ -57,6 +57,7 @@ h3{
   float: right;
   color: black;
   font-size: 15px;
+  font-kerning: 2px;
   font-family: "Arial", sans-serif;
 
 }
