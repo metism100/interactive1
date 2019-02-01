@@ -74,10 +74,11 @@ h4{
 }
 
 h6 {
-  font-size:10px;
+  font-size:15px;
+  font-family: "Arial", sans-serif;
   color: red;
-  padding-left: 950px
   font-weight: thin;
+  padding-left: 700px;
 }
 
 h5
