@@ -14,7 +14,7 @@ body {
 
   color: blue;
 }
-
+.not-allowed {cursor: not-allowed;}
 
 a:hover {
   color: purple;
