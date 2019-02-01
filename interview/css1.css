@@ -92,6 +92,11 @@ h5
   padding-top: 100px;
 }
 
+h{
+  font-size: 60px;
+  color: red;
+}
+
 header
 {
   /*background-image: url(cherrycopy.jpg);*/
