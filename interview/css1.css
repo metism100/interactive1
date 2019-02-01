@@ -43,7 +43,7 @@ header
 
 .main-nav li.active a
 {
-  border-bottom:2px grey;
+  border-bottom:2px blue;
 }
 
 .main-nav li a:hover
