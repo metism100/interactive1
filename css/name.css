@@ -1,7 +1,8 @@
-
-* {
-  margin: 0px;
-  padding: 0px;
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 
 /* begin styles */
@@ -13,13 +14,6 @@ body {
 body {
 
   color: blue;
-}
-
-p {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
 }
 
 a:hover {
