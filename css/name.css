@@ -20,9 +20,7 @@ body {
 }
 p{  text-decoration: underline;}
 
-ul.a {
-  list-style-type: square;
-}
+ul.b {list-style-type: square;}
 
 
 a:hover {
