@@ -21,7 +21,7 @@ a:hover {
 }
 
 body, h1, h2, h3, h4, pre, code {
-    font-family: 'Comic Sans MS', 'Payprus', 'Comic Sans MS', monospace;
+    font-family: 'Comic Sans MS', 'Arial', 'Arial', monospace;
     font-size: 15px;
     line-height: 18px;
     color: #900381;
