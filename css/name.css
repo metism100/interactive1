@@ -12,7 +12,7 @@ body {
 }
 
 body {
-
+	border: 10px;
   color: red;
   font-size: 30px;
   font-weight: thin;
