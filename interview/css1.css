@@ -53,7 +53,7 @@ h3
   color: black;
   font-size: 18px;
   font-family: "Arial", sans-serif;
-  font-kerning: 10px;
+  /*font-kerning: 10px;*/
   font-weight: bold;
   kerning: 30px;
   letter-spacing: 0px;
