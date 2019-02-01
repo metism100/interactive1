@@ -6,6 +6,18 @@
 
 /* begin styles */
 
+div {
+  width: 70px;
+  height: 300px;
+  border: 1px solid #c3c3c3;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-align-content: center;
+  align-content: center;
+}
+
 body {
 
   color: blue;
@@ -27,16 +39,4 @@ body, h1, h2, h3, h4, pre, code {
     word-spacing: normal;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: subpixel-antialiased;
-}
-
-
-
-::-moz-selection {
-  background: #71efac;
-  color: #261e66;
-}
-
-::selection {
-  background: #71efac;
-  color: #261e66;
 }
