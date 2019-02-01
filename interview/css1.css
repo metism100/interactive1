@@ -25,6 +25,10 @@ h2 {
   line-height: 30px;
 }
 
+div.ex2 {
+  overflow: hidden;
+}
+
 header
 {
   /*background-image: url(cherrycopy.jpg);*/
