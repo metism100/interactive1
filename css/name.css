@@ -12,6 +12,11 @@ body {
 }
 
 
+a:hover {
+  color: purple;
+  border-bottom: none;
+}
+
 body, h1, h2, h3, h4, pre, code {
     font-family: 'Comic Sans MS', 'Payprus', 'Comic Sans MS', monospace;
     font-size: 15px;
