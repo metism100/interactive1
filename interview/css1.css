@@ -10,13 +10,14 @@
 body { 
   background-color: white;
 
-  margin: 100px;
+  margin: 200px;
   text-align: center;
   text-decoration-color: grey;
   font-size: 30px;
   font-style: "Arial", sans-serif;
   font-kerning: 10px;
   font-weight: bold;
+  kerning: 20px;
 }
 
 header
