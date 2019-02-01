@@ -81,7 +81,7 @@ h6 {
 }
 
 .vl {
-  border-left: 2px grey;
+  border-left: 2px solid grey;
   height: 500px;
   position: absolute;
   left: 50%;
