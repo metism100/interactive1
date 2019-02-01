@@ -82,11 +82,11 @@ h6 {
 
 .vl {
   border-left: 2px solid grey;
-  height: 0px;
+  height: 200px;
   position: absolute;
   left: 50%;
   margin-left: -3px;
-  top: 1500px;
+  top: 1800px;
 }
 
 h5
