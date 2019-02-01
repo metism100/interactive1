@@ -20,7 +20,8 @@ body {
 }
 p{  text-decoration: underline;}
 
-ul {list-style-type: georgian;}
+ul {list-style-type: georgian;
+list-style-position: 100px;}
 
 
 a:hover {
