@@ -15,10 +15,11 @@ h2 {
   text-align: 300px;
   color: #A9A9A9;
   font-size: 30px;
-  font-style: "Arial", sans-serif;
+  font-style: "Century Gothic", sans-serif;
   font-kerning: 10px;
   font-weight: bold;
-  kerning: 20px;
+  kerning: 0px;
+  letter-spacing: 20px;
 }
 
 header
