@@ -6,16 +6,8 @@
 
 /* begin styles */
 
-div {
-  width: 70px;
-  height: 300px;
-  border: 1px solid #c3c3c3;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-align-content: center;
-  align-content: center;
+body { 
+  background: lightblue url("cherry.jpeg") no-repeat fixed center; 
 }
 
 body {
