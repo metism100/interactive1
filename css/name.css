@@ -7,5 +7,19 @@
 /* begin styles */
 
 body {
+
   color: blue;
+}
+
+
+body, h1, h2, h3, h4, pre, code {
+    font-family: 'everson mono', 'Spot Mono', 'Courier', monospace;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    font-weight: bold;
+    font-style: normal;
+    word-spacing: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: subpixel-antialiased;
 }
