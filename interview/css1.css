@@ -25,10 +25,6 @@ h2 {
   line-height: 40px;
 }*/
 
-p1{
-  padding-left: 50px;
-}
-
 h4
 {
   padding-left: 150px;
@@ -49,6 +45,10 @@ h6
   /*padding-left: 150px;*/
   max-width: 800px;
   line-height: 40px;
+}
+
+h3 {
+  padding-bottom: 100px;
 }
 
 h5
