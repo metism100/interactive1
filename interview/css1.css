@@ -69,7 +69,7 @@ header
 {
   float: right;
   list-style: none;
-  margin-top: 60px;
+  margin-top: 50px;
 }
 
 .main-nav li
@@ -81,7 +81,7 @@ header
 {
   color: black;
   text-decoration: none;
-  padding: 5px 50px;
+  padding: 5px 20px;
   font-family: "Roboto", sans-serif;
   font-size: 15px;
 }
