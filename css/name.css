@@ -30,7 +30,7 @@ a:hover {
 }
 
 h1 {
-	padding: 250px;
+  padding: 250px;
   font-family: "Optima", cursive, sans-serif;
   font-size: 50px;
   letter-spacing: 10px;
@@ -38,10 +38,9 @@ h1 {
   text-align: center;
 }
 h3 {
-  font-family: "Impact", Charcoal, sans-serif;
-  color: orange;
+  font-family: "Arial", Charcoal, sans-serif;
+  color: black;
   font-size: 50px;
-  letter-spacing: 100px;
 }
 a:hover { 
   background-color: black;
