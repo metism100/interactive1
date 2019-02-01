@@ -34,10 +34,10 @@ h3 {
 }
 
 a {
-  font-family: "Impact", Charcoal, sans-serif;
+  font-family: "Arial", Charcoal, sans-serif;
   color: orange;
-  font-size: 50px;
-  letter-spacing: 100px;
+  font-size: .1px;
+  letter-spacing: 2px;
 }
 p {
   font-family: "Arial", Times, serif;
