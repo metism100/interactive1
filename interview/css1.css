@@ -9,7 +9,9 @@
 
 body { 
   background-color: white;
+}
 
+h2 {
   text-align: center;
   text-decoration-color: grey;
   font-size: 30px;
