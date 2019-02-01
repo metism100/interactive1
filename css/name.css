@@ -14,7 +14,8 @@ body {
 body {
 
   color: blue;
-  font-size:10px;
+  font-size: 70px;
+  font-weight: thin;
   font-stretch: extra-expanded;
 }
 
@@ -43,8 +44,4 @@ a {
   font-size: 20px;
   font-weight: bolder;
   letter-spacing: 1000px;
-}
-p {
-  font-family: "Arial", Times, serif;
-  font-stretch: extra-expanded;
 }
