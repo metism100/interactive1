@@ -71,6 +71,7 @@ h4{
   float: right;
   color: grey;
   font-size: 15px;
+  line-height: 20px;
   font-kerning: 2px;
   font-family: "Arial", sans-serif;
 }
