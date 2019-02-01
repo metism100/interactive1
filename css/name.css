@@ -27,19 +27,8 @@ h1 {
 }
 h3 {
   font-family: "Impact", Charcoal, sans-serif;
+  color: purple;
 }
 p {
   font-family: "Arial", Times, serif;
 }
-
-/*h1, h2, h3, h4, pre, code {
-    font-family: 'Comic Sans MS', 'Arial', 'Arial', monospace;
-    font-size: 15px;
-    line-height: 18px;
-    color: #900381;
-    font-weight: bold;
-    font-style: normal;
-    word-spacing: normal;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: subpixel-antialiased;
-}*/
