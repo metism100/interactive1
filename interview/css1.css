@@ -93,8 +93,12 @@ h5
 }
 
 h{
-  font-size: 60px;
-  color: red;
+  ont-size:15px;
+  font-family: "Arial", sans-serif;
+  color: grey;
+  font-weight: normal;
+  padding-left: 670px;
+  padding-top: 100px;
 }
 
 header
