@@ -21,7 +21,8 @@ p{  color: blue;
 	}
 
 ul {list-style-type: georgian;
-list-style-position: 100px;}
+list-style-position: 100px;
+list-style: none}
 
 
 a:hover {
