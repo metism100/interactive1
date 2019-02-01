@@ -8,7 +8,8 @@
 /* begin styles */
 
 body { 
-  font-size 10px;
+  font-size: 10px;
+  font-size: grey;
   font-family: "Arial", sans-serif;
   background-color: white;
 }
