@@ -12,8 +12,6 @@ body {
 }
 
 body {
-  outline-style: dashed;
-  outline-color: blue;
   color: red;
   font-size: 30px;
   font-weight: thin;
@@ -32,6 +30,7 @@ a:hover {
 }
 
 h1 {
+	padding: 100px;
   font-family: "Optima", cursive, sans-serif;
   font-size: 50px;
   letter-spacing: 10px;
