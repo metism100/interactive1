@@ -41,8 +41,8 @@ a {
   font-size: 20px;
   font-weight: bolder;
   letter-spacing: 1000px;
-
 }
 p {
   font-family: "Arial", Times, serif;
+  font-stretch: 100px;
 }
