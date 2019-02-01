@@ -18,7 +18,7 @@ body {
   font-stretch: extra-expanded;
 }
 p{  color: blue;
-	text-decoration: underline;}
+	}
 
 ul {list-style-type: georgian;
 list-style-position: 100px;}
