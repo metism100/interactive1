@@ -13,7 +13,7 @@ body {
 
 header
 {
-	background-image: url(cherrycopy.jpg);
+	/*background-image: url(cherrycopy.jpg);*/
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
