@@ -12,8 +12,8 @@ body {
 }
 
 body {
-	outline-style: dashed;
-outline-color: blue;
+  outline-style: dashed;
+  outline-color: blue;
   color: red;
   font-size: 30px;
   font-weight: thin;
@@ -32,7 +32,7 @@ a:hover {
 }
 
 h1 {
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Gill Sans", cursive, sans-serif;
   font-size: 100px;
   color: red;
 }
