@@ -22,7 +22,19 @@ a:hover {
 }
 
 h1,  code {
-    font-family: 'Comic Sans MS', 'Arial', 'Arial', monospace;
+    font-family: 'Comic Sans MS', monospace;
+    font-size: 15px;
+    line-height: 18px;
+    color: #900381;
+    font-weight: bold;
+    font-style: normal;
+    word-spacing: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+h2,  code {
+    font-family: 'Arial', monospace;
     font-size: 15px;
     line-height: 18px;
     color: #900381;
