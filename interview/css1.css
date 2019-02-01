@@ -48,7 +48,8 @@ header
 
 .main-nav li a:hover
 {
-  border: 1px black bottom border;
+  text-decoration: underline;
+  /*border: 1px solid black;*/
 }
 
 .logo img
