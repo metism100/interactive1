@@ -8,7 +8,7 @@
 /* begin styles */
 
 body { 
-  background-image: url("cherrycopy.jpg");
+  /*background-image: url("cherrycopy.jpg");*/
 }
 
 header
@@ -21,7 +21,7 @@ header
 
 .main-nav
 {
-	float:right;
+	float: center;
 	list-style: none;
 	margin-top: 30px;
 }
