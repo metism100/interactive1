@@ -15,10 +15,10 @@ body {
 
   color: blue;
   font-size: 30px;
-  text-decoration: underline;
   font-weight: thin;
   font-stretch: extra-expanded;
 }
+p{  text-decoration: underline;}
 
 a:hover {
   color: purple;
