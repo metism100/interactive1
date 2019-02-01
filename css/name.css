@@ -26,6 +26,7 @@ list-style-position: 100px;}
 
 a:hover {
   color: blue;
+  border-bottom: none;
 }
 
 h1 {
@@ -43,7 +44,7 @@ h3 {
   font-size: 20px;
 }
 a:hover { 
-  background-color: black;
+  background-color: blue;
 }
 a {
   font-family: "Arial", Charcoal, sans-serif;
