@@ -43,12 +43,12 @@ header
 
 .main-nav li.active a
 {
-  border-bottom:2px solid black;
+  border-bottom:2px grey;
 }
 
 .main-nav li a:hover
 {
-  border-bottom: 2px grey;
+  border-bottom: 2px solid black;
   /*text-decoration: underline;*/
   /*border: 1px solid black;*/
 }
