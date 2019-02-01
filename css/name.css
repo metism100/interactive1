@@ -14,6 +14,7 @@ body {
 body {
 
   color: blue;
+  font-stretch: extra-expanded;
 }
 
 a:hover {
