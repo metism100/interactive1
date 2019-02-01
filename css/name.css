@@ -28,3 +28,15 @@ body, h1, h2, h3, h4, pre, code {
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: subpixel-antialiased;
 }
+
+
+
+::-moz-selection {
+  background: #71efac;
+  color: #261e66;
+}
+
+::selection {
+  background: #71efac;
+  color: #261e66;
+}
