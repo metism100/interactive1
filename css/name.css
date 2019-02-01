@@ -11,43 +11,52 @@ body {
   /*background-image: url("cherrycopy.jpg");*/
 }
 
-.navbar {
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 100%;
+li {
+  display: inline;
 }
 
-.navbar a {
+li {
   float: left;
+}
+
+a {
   display: block;
-  color: #f2f2f2;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+ul {
+  background-color: #dddddd;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
 }
 
-.navbar a:hover {
-  background: #ddd;
-  color: black;
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
 }
 
-.main {
-  padding: 16px;
-  margin-top: 30px;
-  height: 1500px; /* Used in this example to enable scrolling */
+.active {
+  background-color: #4CAF50;
 }
-</style>
-</head>
-<body>
-
-<div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-</div>
 
 body {
   color: red;
