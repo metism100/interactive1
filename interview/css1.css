@@ -17,7 +17,7 @@ body {
 
 p{
   font-family: "Arial", sans-serif;
-  kerning: 10px;
+  line-height: 10px;
 }
 
 /*
@@ -61,7 +61,7 @@ h3{
   float: right;
   color: grey;
   font-size: 15px;
-  font-kerning: 100px;
+  line-height: : 5px;
   font-family: "Arial", sans-serif;
 }
 
