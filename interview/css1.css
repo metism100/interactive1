@@ -79,6 +79,7 @@ h6 {
   color: grey;
   font-weight: normal;
   padding-left: 670px;
+  padding-top: 50px;
 }
 
 h5
@@ -87,7 +88,8 @@ h5
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
-  padding-left: 630px;
+  padding-left: 530px;
+  padding-top: 100px;
 }
 
 header
