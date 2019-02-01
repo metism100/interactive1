@@ -92,7 +92,8 @@ h6 {
 h1 {
   font-size:20px;
   color: red;
-  padding-left: 600px;
+  padding-left: 650px
+  font-weight: thin;
 }
 
 h5
