@@ -55,12 +55,10 @@ h6
 
 h3{
   float: right;
-  color: grey;
+  color: darkgrey;
   font-size: 15px;
   font-kerning: 2px;
   font-family: "Arial", sans-serif;
-  font-weight: thin;
-
 }
 
 h6 {
