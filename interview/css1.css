@@ -48,7 +48,8 @@ header
 
 .main-nav li a:hover
 {
-  text-decoration: 2px underline;
+  border-bottom: 2px solid black;
+  /*text-decoration: underline;*/
   /*border: 1px solid black;*/
 }
 
