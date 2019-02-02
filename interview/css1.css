@@ -59,7 +59,7 @@ h3{
 }
 
 h{
-  float: right;
+  float: left;
   color: grey;
   font-size: 15px;
   line-height: 19px;
@@ -68,8 +68,7 @@ h{
   text-align: center;
   /*padding: 300px;*/
   padding-top: 40px;
-  padding-right: 1066px;
-  padding-bottom: -50px;
+  /*padding-right: 1066px;*/
   font-weight: bold;
 }
 
