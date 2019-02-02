@@ -42,8 +42,7 @@ h2 {
 }*/
 
 .img {
-  padding-left: 500px;
-  position: relative;
+  position: center;
   text-align: center;
   color: white;
 }
