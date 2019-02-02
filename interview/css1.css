@@ -45,7 +45,6 @@ h2 {
   position: relative;
   text-align: center;
   color: white;
-  margin-left: relative;
 }
 
 
@@ -144,8 +143,6 @@ h1{
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
-  position: relative;
-  left: 90em;
   padding-top: 100px;
   /*padding-left:670px;*/
 }
