@@ -25,7 +25,14 @@ b{
   line-height: 17px;
   padding-left: 665px;
 }
-
+w{
+  font-family: "Arial", sans-serif;
+  line-height: 17px;
+  padding-left: 1000px;
+  text-align: right;
+  postion: relative;
+  bottom: 10px;
+}
 k{
   font-family: "Arial", sans-serif;
   line-height: 17px;
