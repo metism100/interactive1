@@ -139,6 +139,7 @@ h5
 }
 
 h1{
+   float: center;
   font-size:15px;
   font-family: "Arial", sans-serif;
   color: grey;
@@ -146,7 +147,6 @@ h1{
   float:left;
   padding-top: 100px;
   padding-left:670px;
-  float: left;
 }
 
 header
