@@ -242,14 +242,6 @@ header
   border: 1px solid black;*/
 }
 
-.main-nav {
-  overflow: hidden;
-  background-color: #000;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 70%; /* Full width */
-}
-
 .logo img
 {
   width: 65px;
