@@ -144,7 +144,8 @@ h6 {
 }
 
 h{
-  padding-top: 100px;
+  left: 100px;
+  padding-top: 1000px;
   float: right;
   color: grey;
   font-weight: bold;
