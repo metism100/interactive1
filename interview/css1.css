@@ -84,7 +84,7 @@ h4{
 
 .vl {
   border-left: 1.5px solid grey;
-  height: 500px;
+  height: 450px;
   position: absolute;
   left: 50%;
   margin-left: -3px;
@@ -108,6 +108,7 @@ h5
   font-weight: normal;
   padding-left: 545px;
   padding-top: 100px;
+  text-align: right;
 }
 
 h1{
