@@ -84,7 +84,7 @@ h4{
 
 .vl {
   border-left: 1.5px solid grey;
-  height: 450px;
+  height: 400px;
   position: absolute;
   left: 50%;
   margin-left: -3px;
@@ -106,7 +106,7 @@ h5
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
-  padding-left: 555px;
+  padding-left: 550px;
   padding-top: 100px;
 }
 
