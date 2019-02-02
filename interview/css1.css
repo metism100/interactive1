@@ -61,13 +61,13 @@ h3{
 h{
   float: left;
   color: grey;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 19px;
   font-kerning: 2px;
   font-family: "Arial", sans-serif;
   text-align: center;
   /*padding: 300px;*/
-  padding-top: 166px;
+  padding-top: 130px;
   padding-left: 196px;
   /*padding-right: 1066px;*/
   font-weight: bold;
@@ -106,7 +106,7 @@ h4{
 }
 
 h6 {
-  font-size:13px;
+  font-size:15px;
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
@@ -125,7 +125,7 @@ h5
 }
 
 h1{
-  font-size:13px;
+  font-size:15px;
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
