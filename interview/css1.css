@@ -41,6 +41,15 @@ h2 {
   float: right;
 }*/
 
+h2{
+  font-size:15px;
+  font-family: "Arial", sans-serif;
+  color: grey;
+  font-weight: normal;
+  padding-left: 520px;
+  padding-top: 100px;
+}
+
 h3{
   float: right;
   color: grey;
