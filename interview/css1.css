@@ -43,6 +43,13 @@ k{
   color: darkgrey;
 }
 
+q{
+  ont-family: "Arial", sans-serif;
+  line-height: 20px;
+  font-weight: bold;
+  color: black;
+}
+
 /*
 h2 {
   text-align: 300px;
