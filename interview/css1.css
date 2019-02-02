@@ -107,18 +107,20 @@ h3{
 }
 
 h{
- /* float: left;*/
+  font-family: "Roboto", sans-serif;
+  line-height: 17px;
+/*
   color: grey;
   font-size: 15px;
   line-height: 19px;
   font-kerning: 2px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;*/
   /*text-align: center;*/
   /*padding: 300px;*/
   /*padding-top: -150px;*/
   /*padding-left: 234px;*/
   /*padding-right: 1066px;*/
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 
 e{
