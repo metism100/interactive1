@@ -67,7 +67,8 @@ h{
   font-kerning: 2px;
   font-family: "Arial", sans-serif;
   text-align: center;
-  padding: 300px;
+  /*padding: 300px;*/
+  padding-left: 300px;
 }
 
 e{
