@@ -61,7 +61,7 @@ h3{
 h{
   float: left;
   color: grey;
-  font-size: 15px;
+  font-size: 13px;
   line-height: 19px;
   font-kerning: 2px;
   font-family: "Arial", sans-serif;
@@ -106,7 +106,7 @@ h4{
 }
 
 h6 {
-  font-size:15px;
+  font-size:13px;
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
@@ -125,7 +125,7 @@ h5
 }
 
 h1{
-  font-size:15px;
+  font-size:13px;
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
