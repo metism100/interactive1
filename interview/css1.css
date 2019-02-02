@@ -83,7 +83,7 @@ h4{
 }*/
 
 .vl {
-  border-left: 2px solid grey;
+  border-left: 1px solid grey;
   height: 300px;
   position: absolute;
   left: 50%;
@@ -156,8 +156,8 @@ header
 .main-nav li a:hover
 {
   border-bottom: 2px solid black;
-  /*text-decoration: underline;*/
-  /*border: 1px solid black;*/
+  text-decoration: underline;
+  border: 1px solid black;
 }
 
 .logo img
