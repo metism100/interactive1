@@ -41,19 +41,19 @@ h2 {
   float: right;
 }*/
 
-.img {
-  position: center;
+/*.img {
+  position: relative;
   text-align: center;
   color: white;
 }
 
-/* Centered text */
+
 .centered {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
+}*/
 
 h2{
   /*float: center;*/
