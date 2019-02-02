@@ -20,6 +20,12 @@ p{
   line-height: 17px;
 }
 
+k{
+  font-family: "Arial", sans-serif;
+  line-height: 17px;
+  text-align: right;
+}
+
 /*
 h2 {
   text-align: 300px;
