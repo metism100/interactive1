@@ -83,7 +83,7 @@ h4{
 }*/
 
 .vl {
-  border-left: 1px solid grey;
+  border-left: 1.5px solid grey;
   height: 300px;
   position: absolute;
   left: 50%;
@@ -106,7 +106,7 @@ h5
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
-  padding-left: 520px;
+  padding-left: 540px;
   padding-top: 100px;
 }
 
