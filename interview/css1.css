@@ -44,9 +44,10 @@ k{
 }
 
 q{
-  ont-family: "Arial", sans-serif;
+  font-family: "Arial", sans-serif;
   line-height: 20px;
   font-weight: bold;
+  text-align: center;
   color: black;
 }
 
