@@ -84,7 +84,7 @@ h4{
 
 .vl {
   border-left: 1.5px solid grey;
-  height: 400px;
+  height: 300px;
   position: absolute;
   left: 50%;
   margin-left: -3px;
@@ -116,7 +116,7 @@ h1{
   color: grey;
   font-weight: normal;
   padding-left: 670px;
-  padding-top: 180px;
+  padding-top: 140px;
 }
 
 header
