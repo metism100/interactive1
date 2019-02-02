@@ -139,14 +139,13 @@ h5
 }
 
 h1{
-   float: center;
   font-size:15px;
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
   float:left;
   padding-top: 100px;
-  padding-left:670px;
+  /*padding-left:670px;*/
 }
 
 header
