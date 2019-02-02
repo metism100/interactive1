@@ -102,7 +102,7 @@ h4{
   position: absolute;
   left: 50%;
   margin-left: -3px;
-  top: 990px; /*1530*/
+  top: 992px; /*1530*/
 }
 
 h6 {
@@ -121,7 +121,7 @@ h5
   color: grey;
   font-weight: normal;
   padding-left: 550px;
-  padding-top: 130px;
+  padding-top: 100px;
 }
 
 h1{
