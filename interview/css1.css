@@ -98,11 +98,11 @@ h4{
 
 .vl {
   border-left: 1.5px solid grey;
-  height: 115px;
+  height: 315px;
   position: absolute;
   left: 50%;
   margin-left: -3px;
-  top: 1550px; /*1530*/
+  top: 550px; /*1530*/
 }
 
 h6 {
