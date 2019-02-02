@@ -109,6 +109,7 @@ h3{
 h{
   font-family: "Roboto", sans-serif;
   line-height: 17px;
+  padding-left: -70px;
 /*
   color: grey;
   font-size: 15px;
