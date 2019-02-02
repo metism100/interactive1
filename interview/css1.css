@@ -66,11 +66,11 @@ h4{
 
 .vl {
   border-left: 2px solid grey;
-  height: 200px;
+  height: 300px;
   position: absolute;
   left: 50%;
   margin-left: -3px;
-  top: 1530px;
+  top: 30px;
 }
 
 h6 {
