@@ -72,7 +72,7 @@ h2 {
   float: right;
 }*/
 
-.img-a {
+.img {
   position: relative;
   text-align: center;
   color: white;
@@ -151,7 +151,7 @@ h4{
 
 .vl {
   border-left: 1.5px solid grey;
-  height: 370px;
+  height: 200px;
   position: absolute;
   left: 50%;
   margin-left: -3px;
