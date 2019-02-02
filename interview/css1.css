@@ -70,7 +70,7 @@ h4{
   position: absolute;
   left: 50%;
   margin-left: -3px;
-  top: 30px;
+  top: 30px; /*1530*/
 }
 
 h6 {
@@ -93,10 +93,12 @@ h5
 }
 
 e{
-  padding-right: -760px;
+  ont-size:15px;
+  font-family: "Arial", sans-serif;
+  color: grey;
+  font-weight: normal;
+  padding-left: 100px;
   padding-top: 100px;
-  font-size: 50px;
-  color: red;
 }
 
 h{
