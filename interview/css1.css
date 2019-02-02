@@ -119,7 +119,7 @@ h4{
 
 .vl {
   border-left: 1.5px solid grey;
-  height: 400px; /*317*/
+  height: 10px; /*317*/
   position: absolute;
   left: 50%;
   margin-left: -3px;
