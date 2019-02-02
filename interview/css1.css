@@ -145,8 +145,7 @@ h1{
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
-  padding-left: 670px;
-  float:right;
+ /* padding-left: 670px;*/
   padding-top: 100px;
 }
 
