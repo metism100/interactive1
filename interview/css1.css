@@ -161,6 +161,15 @@ h6 {
   padding-top: -30px;
 }
 
+o{
+  font-size:15px;
+  font-family: "Roboto", sans-serif;
+  color: grey;
+  font-weight: normal;
+  padding-left: 670px;
+  padding-top: -30px;
+}
+
 h{
   left: 100px;
   padding-top: 100px;
