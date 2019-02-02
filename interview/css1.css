@@ -143,7 +143,7 @@ h1{
   font-family: "Arial", sans-serif;
   color: grey;
   font-weight: normal;
-  position: fixed;
+  position: relative;
   left: 90em;
   padding-top: 100px;
   /*padding-left:670px;*/
