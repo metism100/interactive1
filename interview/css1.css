@@ -93,11 +93,13 @@ h5
 }
 
 e{
-  font-size:15px;
-  font-family: "Arial", sans-serif;
+  padding-top: 10px;
+  float: right;
   color: grey;
-  font-weight: normal;
-  padding-top: 100px;
+  font-size: 15px;
+  line-height: 19px;
+  font-kerning: 2px;
+  font-family: "Arial", sans-serif;
 }
 
 h1{
