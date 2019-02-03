@@ -195,10 +195,10 @@ h5
 f{
   left: 100px;
   padding-top: 100px;
-  padding-right:1000px;
+  padding-right:800px;
   float: right;
   color: grey;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 15px;
   line-height: 19px;
   font-family: "Roboto", sans-serif;
