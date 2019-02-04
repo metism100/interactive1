@@ -1,0 +1,12 @@
+* {
+  margin: 10px;
+  padding: 0px;
+  margin-top: 0px;
+}
+
+body { 
+  /*padding: 30px 30px;*/
+  font-size: 13px;
+  color: grey;
+  font-family: "Roboto", sans-serif;
+}
