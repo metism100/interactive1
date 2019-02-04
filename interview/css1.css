@@ -39,7 +39,7 @@ w{
   line-height: 17px;
   padding-left: 1075px;
   text-align: right;
-  font-weight: bold;
+  font-style: italic;
   postion: relative;
   bottom: 10px;
 }
@@ -121,7 +121,7 @@ v{
   padding-left: 255px;
   line-height: 137px;
   float: left;
-  font-style: italic;
+  font-weight: bold;
   font-size: 15px;
 /*
   color: grey;
