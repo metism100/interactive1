@@ -37,8 +37,9 @@ a{
 w{
   font-family: "Roboto", sans-serif;
   line-height: 17px;
-  padding-left: 1000px;
+  padding-left: 1075px;
   text-align: right;
+  font-weight: bold;
   postion: relative;
   bottom: 10px;
 }
