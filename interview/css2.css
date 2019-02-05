@@ -12,5 +12,6 @@ body {
 }
 .img{
 	postion: fixed;
-	padding-left: -1000px;
+	float:left;
+	left:-100;
 }
