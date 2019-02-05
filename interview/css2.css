@@ -84,9 +84,10 @@ h2 {
 
 .img {
   position: relative;
-  text-align: center;
+  text-align: left;
   color: white;
   padding-top: 195px;
+  float: left;
 }
 
 
