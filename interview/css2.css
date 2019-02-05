@@ -13,5 +13,5 @@ body {
 .img{
 	postion: fixed;
 	float:left;
-	left:-100;
+	left:-100px;
 }
