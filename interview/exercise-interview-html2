@@ -6,7 +6,41 @@
       <title>Interview in CSS</title>
       <meta charset="utf-8">
        <link href="css1.css" rel="stylesheet" type="text/css">
+       <!--<link rel="stylesheet" href="css2.css">-->
+   <!--    
+<style>
+.vl {
+  border-left: 2px solid grey;
+  height: 300px; -->
+</style>
 
+<div class="vl"></div>
+       <style>
+       .wrapper{
+        display:inline-grid;
+        /*grid-template-columns: 70% 30%;
+        grid-column-gap:1em;
+        grid-row-gap:1em;*/
+        /*grid-template-columns:repeat(3,2fr);*/
+        grid-template-columns: 90px 250px 250px 250px 250px;
+        grid-template-rows: 60px; 
+        /*grid-gap:1em;*/
+        /*grid-auto-rows: minmax(100px, auto);*/
+        /*padding: 1em;*/
+        padding-top: 170px;
+        padding-bottom: 200px;
+
+       }
+
+       .warpper > div{
+        /*background: #fff;
+        padding: 1em;*/
+       }
+       .wrapper > div:nth-child(odd){
+        /*background:#ddd;*/
+       }
+
+     </style>
   </head>
   
   <body>  
