@@ -72,6 +72,9 @@ h2 {
   float: left;
 }
 
+w{
+  line-height: 80px;
+}
 
 h1{
   font-family: "Helvetica";
