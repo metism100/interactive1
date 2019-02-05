@@ -243,6 +243,7 @@ header
   padding: 5px 20px;
   font-family: "Helvetica", sans-serif;
   font-size: 15px;
+  font-weight: bold;
 }
 
 .main-nav li.active a
