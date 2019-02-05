@@ -25,7 +25,7 @@
         <b> Cherry </b>
         <br>(Jingyi Ling)<br>
           <figure>
-            <img src="cherrycopy.jpg" alt="CherryImage" style = "width:70%"> 
+            <img src="cherrycopy.jpg" alt="CherryImage" style = "display:block; margin-left:auto; margin-right:auto; height: 500px">
             <figcaption>Oct, 2018</figcaption>
         </figure>
       
