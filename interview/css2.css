@@ -114,7 +114,7 @@ v{
 ul {
   list-style-type: circle;
   margin: 100;
-  left-padding: 1000px;
+  padding: 1000px;
   color:black;
 }
 
