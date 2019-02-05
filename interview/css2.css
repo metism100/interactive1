@@ -20,5 +20,7 @@ body {
 
 img  {
   float: left;
-  left: 400px;
+  left: 150px;
+  width: 200px;
+  height: 120px;
 }
