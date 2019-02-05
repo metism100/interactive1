@@ -244,7 +244,7 @@ header
   font-family: "Helvetica", sans-serif;
   font-size: 15px;
   font-weight: bold;
-  padding-right: -100px;
+  padding-left: 100px;
 }
 
 .main-nav li.active a
