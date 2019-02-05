@@ -100,6 +100,14 @@ h1{
   padding-left: 780px;
 }
 
+h2{
+  font-family: "Helvetica";
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  padding-top: 300px;
+  padding-left: 580px;
+}
 
 header
 {
