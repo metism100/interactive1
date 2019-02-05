@@ -11,5 +11,5 @@ body {
   font-family: "Baskerville", sans-serif;
 }
 .img{
-	padding-left:-1000px;
+	left:0px;
 }
