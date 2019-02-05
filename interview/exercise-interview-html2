@@ -3,11 +3,10 @@
 
   <head>
   	  <a name = "top"> </a>
-      <title>Interview in HTML</title>
+      <title>Interview in CSS2</title>
       <meta charset="utf-8">
        <link href="css2.css" rel="stylesheet" type="text/css">
   
-  height: 300px; -->
 </style>
 
 <div class="vl"></div>
