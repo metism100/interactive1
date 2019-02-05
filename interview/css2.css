@@ -112,9 +112,9 @@ v{
 }
 
 li {
-  list-style-type: square;
+  list-style-type: circle;
   margin: 0;
-  left-padding: 300px;
+  left-padding: 1000px;
   color:black;
 }
 
