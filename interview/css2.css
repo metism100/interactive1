@@ -10,8 +10,9 @@ body {
   color: grey;
   font-family: "Baskerville", sans-serif;
 }
-.img{
-	postion: fixed;
-	float:left;
-	left:-100px;
+img{
+	position: absolute;
+  left: 0px;
+  top: 0px;
+  float:left;
 }
