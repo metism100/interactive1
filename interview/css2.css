@@ -20,4 +20,5 @@ body {
 
 img  {
   float: left;
+  left: -100px;
 }
