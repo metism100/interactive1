@@ -118,6 +118,15 @@ p{
   line-height: 35px;
 }
 
+s{
+  font-family: "Baskerville";
+  font-size: 25px;
+  font-weight: normal;
+  color: black;
+  padding-left: 280px;
+  line-height: 35px;
+}
+
 header
 {
   /*background-image: url(cherrycopy.jpg);*/
