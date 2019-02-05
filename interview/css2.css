@@ -111,6 +111,13 @@ v{
   padding-bottom: 80px;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  left-padding: 300px;
+  color:black;
+}
+
 a{
   font-family: "Baskerville";
   font-size: 25px;
