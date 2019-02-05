@@ -83,11 +83,11 @@ h2 {
 }*/
 
 .img {
-  position: relative;
+  /*position: relative;
   text-align: left;
   padding-left: -100px;
   color: white;
-  padding-top: 195px;
+  padding-top: 195px;*/
   float: left;
 }
 
