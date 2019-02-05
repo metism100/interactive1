@@ -34,32 +34,6 @@ a{
   padding-bottom: 50px;
 }
 
-w{
-  font-family: "Roboto", sans-serif;
-  line-height: 17px;
-  padding-left: 1032px;
-  text-align: right;
-  font-weight: 400px;
-  postion: relative;
-  bottom: 25px;
-}
-k{
-  font-family: "Roboto", sans-serif;
-  line-height: 17px;
-  padding-left: 900px;
-  text-align: right;
-  postion: relative;
-  bottom: 10px;
-  color: darkgrey;
-}
-
-r{
-  font-family: "Goudy Old Style";
-  line-height: 40px;
-  font-size: 35px;
-  font-weight: bolder;
-  color: black;
-}
 
 /*
 h2 {
@@ -118,7 +92,7 @@ p{
   line-height: 35px;
 }
 
-s{
+v{
   font-family: "Baskerville";
   font-size: 25px;
   font-weight: normal;
