@@ -5,6 +5,7 @@
       <a name = "top"> </a>
       <title>Interview in CSS 2 (Copy)</title>
       <meta charset="utf-8">
+      <link href="css2.css" rel="stylesheet" type="text/css">
   </head>
   
   <body>  
