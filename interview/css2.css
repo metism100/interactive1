@@ -72,6 +72,10 @@ h2 {
   float: left;
 }
 
+space{
+  padding-bottom: 300px;
+}
+
 h1{
   font-family: "Helvetica";
   font-size: 50px;
