@@ -111,6 +111,16 @@ v{
   padding-bottom: 80px;
 }
 
+a{
+  font-family: "Baskerville";
+  font-size: 25px;
+  font-weight: normal;
+  color: black;
+  padding-left: 280px;
+  line-height: 35px;
+  padding-bottom: 80px;
+}
+
 header
 {
   /*background-image: url(cherrycopy.jpg);*/
