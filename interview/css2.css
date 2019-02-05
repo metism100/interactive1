@@ -240,10 +240,11 @@ header
 {
   color: black;
   text-decoration: none;
-  padding:  20px;
+  padding: 5px 20px;
   font-family: "Helvetica", sans-serif;
   font-size: 15px;
   font-weight: bold;
+  padding-right: 100px;
 }
 
 .main-nav li.active a
