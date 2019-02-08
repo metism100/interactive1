@@ -25,17 +25,9 @@ properties of the elements
 to position them 
 */
 
-#head {
-  width: 160px;
-  height: 160px;
-  background: beige;
-  top: 90px;
-  left: 80px;
-}
-
 #ear-1 {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   background: black;
 
   top: 20px;
@@ -49,6 +41,13 @@ to position them
   background: black;
 }*/
 
+#head {
+  width: 160px;
+  height: 160px;
+  background: beige;
+  top: 90px;
+  left: 80px;
+}
 /*
 #eye-1 {
   width: 25px;
