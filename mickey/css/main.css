@@ -78,15 +78,15 @@ to position them
   width: 35px;
   height: 35px;
   background: red;
-  top: 150px;
-  left: 170px;
+  top: 250px;
+  left: 110px;
   transition: 1s ease-in;
 } 
 
 #mouth:hover{
   width:10px;
   height:5px;
-  left:900px;
+  left:100px;
 }
 
 #body {
