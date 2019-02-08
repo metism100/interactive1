@@ -10,8 +10,8 @@ body {
 
 /* flag canvas */
 #canvas {
-        width: 5000px;
-        height: 3000px;
+        width: 500px;
+        height: 300px;
         position: relative;
         background: red;
 }
@@ -21,7 +21,7 @@ body {
         width: 150px;
         height: 150px;
         background: blue;
-        border-radius: 105px;
+        border-radius: 75px;
         position: absolute;
         top: 75px;
         left: 175px;
