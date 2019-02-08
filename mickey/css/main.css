@@ -24,18 +24,18 @@ adjust the top and left
 properties of the elements
 to position them 
 */
-
+/*
 #ear-1 {
   width: 100px;
   height: 100px;
-  background: black;
+  background: black;*/
 
   /* try uncommenting the following code
   top: 100px;
   left: 20px;
   */
 }
-
+/*
 #ear-2 {
   width: 100px;
   height: 100px;
@@ -93,8 +93,8 @@ to position them
 #foot-1 {
   width: 150px;
   height: 150px;
-  background: yellow;
-}
+  background: yellow; 
+} */
 
 #foot-2 {
   width: 150px;
