@@ -26,11 +26,10 @@ to position them
 */
 
 #ear-1 {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   background: black;
 
-  /* try uncommenting the following code
   top: 100px;
   left: 20px;
   
