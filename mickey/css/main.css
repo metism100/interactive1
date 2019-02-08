@@ -78,7 +78,8 @@ to position them
   width: 35px;
   height: 35px;
   background: red;
-  top: 100px;
+  top: 200px;
+  left: 200px;
 } 
 
 #body {
