@@ -87,13 +87,15 @@ to position them
   width: 32px;
   height: 32px;
   background: black;
-}
+}*/
 
 #foot-1 {
   width: 150px;
   height: 150px;
   background: yellow; 
-} */
+  top: 250px;
+  right: 50px;
+}
 
 #foot-2 {
   width: 150px;
