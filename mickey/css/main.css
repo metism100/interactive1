@@ -45,7 +45,7 @@ to position them
   width: 160px;
   height: 160px;
   background: beige;
-  top: 110px;
+  top: 115px;
   left: 80px;
 }
 /*
@@ -74,8 +74,8 @@ to position them
 } */
 
 #body {
-  width: 160px;
-  height: 160px;
+  width: 190px;
+  height: 190px;
   background: red;
   top: 270px;
   left: 110px;
