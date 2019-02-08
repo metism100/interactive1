@@ -10,8 +10,8 @@ body {
 
 /* flag canvas */
 #canvas {
-        width: 2000px;
-        height: 2000px;
+        width: 1000px;
+        height: 1000px;
         position: relative;
         background: orange;
 }
