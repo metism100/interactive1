@@ -66,7 +66,7 @@ to position them
   left: 140px;
 }
 
-#nose {
+#mouth {
   width: 55px;
   height: 15px;
   background: black;
@@ -74,7 +74,7 @@ to position them
   left: 175px;
 }
 
-#mouth {
+#nose {
   width: 35px;
   height: 35px;
   background: red;
@@ -83,7 +83,7 @@ to position them
   transition: 1s ease-in;
 } 
 
-#mouth:hover{
+#nose:hover{
   width:10px;
   height:5px;
   left:100px;
