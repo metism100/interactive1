@@ -10,10 +10,10 @@ body {
 
 /* flag canvas */
 #canvas {
-        width: 500px;
-        height: 300px;
+        width: 2000px;
+        height: 2000px;
         position: relative;
-        background: white;
+        background: orange;
 }
 
 /* shapes */
