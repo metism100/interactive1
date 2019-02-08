@@ -39,14 +39,16 @@ to position them
   width: 100px;
   height: 100px;
   background: black;
-}
+}*/
 
 #head {
   width: 140px;
   height: 140px;
   background: beige;
+  top: 200px;
+  left: 200px;
 }
-
+/*
 #eye-1 {
   width: 25px;
   height: 25px;
