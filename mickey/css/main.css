@@ -80,12 +80,13 @@ to position them
   background: red;
   top: 200px;
   left: 200px;
-  transition: 1s ease;
+  transition: 1s ease-in;
 } 
 
 #mouth:hover{
-  width:1000px;
-  height:1000px;
+  width:10px;
+  height:5px;
+  left:100px;
 }
 
 #body {
