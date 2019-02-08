@@ -1,14 +1,12 @@
 
-* {
+/** {
         margin: 100px; padding: 1000px;
 }
 
-/* make the background of the page black */
 body {
         background: black;
 }
 
-/* flag canvas */
 #canvas {
         width: 500px;
         height: 300px;
@@ -16,7 +14,6 @@ body {
         background: red;
 }
 
-/* shapes */
 #circle {
         width: 150px;
         height: 150px;
@@ -36,4 +33,4 @@ body {
         position: absolute;
         top: 0px;
         left: 400px;
-}
+}*/
