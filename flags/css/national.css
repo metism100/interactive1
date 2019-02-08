@@ -18,6 +18,8 @@ body {
 
 /* shapes */
 #circle {
+        border: 2px solid #666666;
+        border-radius: 50%;
         width: 150px;
         height: 150px;
         background: blue;
