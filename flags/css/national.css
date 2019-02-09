@@ -18,7 +18,7 @@ body {
 }
 
 #stripe1 {
-  height: 50px;
+  height: 30px;
   width: 1000px;
   background-color: red;
   top: 0px;
@@ -26,7 +26,7 @@ body {
   position: absolute;
 } 
 #stripe2 {
-  height: 50px;
+  height: 30px;
   width: 1000px;
   background-color: red;
   top: 60px;
@@ -34,18 +34,18 @@ body {
   position: absolute;
 } 
 #stripe3 {
-  height: 50px;
+  height: 30px;
   width: 1000px;
   background-color: red;
-  top: 110px;
+  top: 120px;
   left: 0px;
   position: absolute;
 } 
 #stripe4 {
-  height: 50px;
+  height: 30px;
   width: 1000px;
   background-color: red;
-  top: 170px;
+  top: 180px;
   left: 0px;
   position: absolute;
 } 
