@@ -20,7 +20,7 @@ body {
 
 /* shapes */
 #circle {
-        border: 20px solid green;
+        border: 20px solid #27AAE1;
         border-radius: 20%;
         z-index: 86;
         width: 150px;
