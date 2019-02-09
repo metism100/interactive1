@@ -32,16 +32,15 @@ body {
         left: 395px;
 }
 
-#rectangle1 {
+/*#rectangle1 {
   height: 37px;
   width: 250px;
   background-color: #27AAE1;
-  /*width:50%;*/
   top: 400px;
   left: 250px;
   position: absolute;
   transform:rotate(-52deg);
-}
+}*/
 
 #rectangle2 {
   height: 37px;
@@ -53,17 +52,16 @@ body {
   position: absolute;
   transform:rotate(52deg);
 }
-
+/*
 #rectangle3 {
   height: 37px;
   width: 250px;
   background-color: red;
-  /*width:50%;*/
   top: 150px;
   left: 550px;
   position: absolute;
   transform:rotate(-52deg);
-}
+}*/
 
 #backrectangle3 {
   height: 90px;
