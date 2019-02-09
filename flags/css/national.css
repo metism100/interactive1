@@ -18,7 +18,7 @@ body {
 }
 
 #s1{
-   margin: 50px 0;
+   /*margin: 50px 0;
        position: relative;
        display: block;
        color: red;
@@ -30,7 +30,7 @@ body {
        -moz-transform:    rotate(35deg);
        -webkit-transform: rotate(35deg);
        -ms-transform:     rotate(35deg);
-       -o-transform:      rotate(35deg);
+       -o-transform:      rotate(35deg);*/
 }
 
 #stripe1 {
