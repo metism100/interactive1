@@ -44,12 +44,12 @@ body {
 }
 
 #backrectangle1 {
-  height: 50px;
+  height: 70px;
   width: 500px;
   background-color: yellow;
   /*width:50%;*/
-  top: 400px;
-  left: 400px;
+  top: 470px;
+  left: 500px;
   position: absolute;
   opacity: .5;
 }
