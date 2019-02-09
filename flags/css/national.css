@@ -21,15 +21,15 @@ body {
   height: 42px;
   width: 1000px;
   background-color: red;
-  top: 0px;
+  top: 54px;
   left: 0px;
   position: absolute;
 } 
 #stripe2 {
   height: 42px;
   width: 1000px;
-  background-color: red;
-  top: 85px;
+  background-color: black;
+  top: 96px;
   left: 0px;
   position: absolute;
 } 
@@ -37,15 +37,15 @@ body {
   height: 42px;
   width: 1000px;
   background-color: red;
-  top: 255px;
+  top: 138px;
   left: 0px;
   position: absolute;
 } 
 #stripe4 {
   height: 42px;
   width: 1000px;
-  background-color: red;
-  top: 425px;
+  background-color: black;
+  top: 180px;
   left: 0px;
   position: absolute;
 } 
@@ -53,19 +53,67 @@ body {
   height: 42px;
   width: 1000px;
   background-color: red;
-  top: 400px;
+  top: 222px;
   left: 0px;
   position: absolute;
 } 
 #stripe6 {
   height: 42px;
   width: 1000px;
-  background-color: red;
-  top: 500px;
+  background-color: black;
+  top: 264px;
   left: 0px;
   position: absolute;
 } 
 #stripe7 {
+  height: 42px;
+  width: 1000px;
+  background-color: red;
+  top: 306px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe8 {
+  height: 42px;
+  width: 1000px;
+  background-color: black;
+  top: 348px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe9 {
+  height: 42px;
+  width: 1000px;
+  background-color: red;
+  top: 390px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe10 {
+  height: 42px;
+  width: 1000px;
+  background-color: black;
+  top: 432px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe11 {
+  height: 42px;
+  width: 1000px;
+  background-color: red;
+  top: 474px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe12 {
+  height: 42px;
+  width: 1000px;
+  background-color: black;
+  top: 516px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe13 {
   height: 42px;
   width: 1000px;
   background-color: red;
