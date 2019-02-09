@@ -36,8 +36,8 @@ body {
   height: 37px;
   width: 250px;
   background-color: orange;
-  top: 380px;
-  left: 282px;
+  top: 370px;
+  left: 279px;
   position: absolute;
   transform:rotate(-40deg);
 }
