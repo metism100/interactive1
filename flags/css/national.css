@@ -34,10 +34,11 @@ body {
 
 #rectangle {
   height: 50px;
-  width: 100px;
+  width: 500px;
   background-color: #27AAE1;
   /*width:50%;*/
-  top: 400px;
+  top: 370px;
+  left: 200px;
   position: absolute;
   /*transform:rotate(2deg);*/
 }
