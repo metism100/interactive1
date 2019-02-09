@@ -54,6 +54,17 @@ body {
   transform:rotate(52deg);
 }
 
+#rectangle3 {
+  height: 37px;
+  width: 250px;
+  background-color: #27AAE1;
+  /*width:50%;*/
+  top: 400px;
+  left: 250px;
+  position: absolute;
+  transform:rotate(-152deg);
+}
+
 #backrectangle3 {
   height: 90px;
   width: 490px;
