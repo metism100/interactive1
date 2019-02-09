@@ -16,9 +16,9 @@ body {
    color: red;
    width: 0px;
    height: 0px;
-   border-right:  150px solid transparent;
+   border-right:  100px solid transparent;
    border-bottom: 70px  solid white;
-   border-left:   100px solid transparent;
+   border-left:   150px solid transparent;
    -moz-transform:    rotate(35deg) scale(.2);
    -webkit-transform: rotate(35deg) scale(.2);
    -ms-transform:     rotate(35deg) scale(.2);
