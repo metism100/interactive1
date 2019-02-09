@@ -48,10 +48,10 @@ body {
   width: 300px;
   background-color: #27AAE1;
   /*width:50%;*/
-  top: 400px;
+  top: 500px;
   left: 250px;
   position: absolute;
-  transform:rotate(-52deg);
+  transform:rotate(52deg);
 }
 
 #backrectangle3 {
