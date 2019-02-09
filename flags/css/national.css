@@ -37,6 +37,7 @@ body {
   width: 100px;
   background-color: #27AAE1;
   /*width:50%;*/
-  top-padding: 400px;
+  top: 400px;
+  position: absolute;
   /*transform:rotate(2deg);*/
 }
