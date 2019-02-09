@@ -28,6 +28,16 @@ body {
   opacity: .5;
 } 
 
+#backrectangle2 {
+  height: 90px;
+  width: 100px;
+  background-color: yellow;
+  top: 200px;
+  left: 0px;
+  position: absolute;
+  opacity: .5;
+} 
+
 #circle {
         border: 35px solid #27AAE1;
         border-radius: 100%;
