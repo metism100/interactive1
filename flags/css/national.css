@@ -31,4 +31,13 @@ body {
         top: 190px;
         left: 395px;
 }
+
+#rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+  width:110%;
+  top:-5%;
+  left:-5%;
+  transform:rotate(2deg);
 }
