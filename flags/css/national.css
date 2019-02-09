@@ -37,7 +37,7 @@ body {
   height: 30px;
   width: 1000px;
   background-color: red;
-  top: 118px;
+  top: 116px;
   left: 0px;
   position: absolute;
 } 
@@ -45,7 +45,23 @@ body {
   height: 30px;
   width: 1000px;
   background-color: red;
-  top: 178px;
+  top: 174px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe5 {
+  height: 30px;
+  width: 1000px;
+  background-color: red;
+  top: 232px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe6 {
+  height: 30px;
+  width: 1000px;
+  background-color: red;
+  top: 290px;
   left: 0px;
   position: absolute;
 } 
