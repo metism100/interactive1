@@ -1,0 +1,94 @@
+
+* {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page black */
+body {
+        background: white;
+}
+
+/* flag canvas */
+#canvas {
+        width: 1000px;
+        height: 600px;
+        top: 70px;
+        left: 200px;
+        position: relative;
+        background: #EF4136;
+}
+/* shapes */
+#backrectangle1 {
+  height: 90px;
+  width: 490px;
+  background-color: yellow;
+  top: 60px;
+  left: 0px;
+  position: absolute;
+  opacity: .5;
+} 
+
+#backrectangle2 {
+  height: 100px;
+  width: 1000px;
+  background-color: yellow;
+  top: 250px;
+  left: 0px;
+  position: absolute;
+  opacity: .5;
+} 
+
+#circle {
+        border: 35px solid #27AAE1;
+        border-radius: 100%;
+        z-index: 86;
+        width: 150px;
+        height: 150px;
+        /*background: blue;*/
+        border-radius: 200px;
+        position: absolute;
+        top: 190px;
+        left: 395px;
+}
+
+ #rectangle1 {
+  height: 37px;
+  width: 260px;
+  background-color: #27AAE1;
+  top: 378px;
+  left: 263px;
+  position: absolute;
+  transform:rotate(-40deg);
+}
+
+#rectangle2 {
+  height: 37px;
+  width: 230px;
+  background-color: #27AAE1;
+  /*width:50%;*/
+  top: 385px;
+  left: 465px;
+  position: absolute;
+  transform:rotate(52deg);
+}
+
+#rectangle3 {
+  height: 37px;
+  width: 260px;
+  background-color: #27AAE1;
+  top: 197px;
+  left: 479px;
+  position: absolute;
+  transform:rotate(-40deg);
+}
+
+#backrectangle3 {
+  height: 90px;
+  width: 490px;
+  background-color: yellow;
+  /*width:50%;*/
+  top: 450px;
+  left: 510px;
+  position: absolute;
+  opacity: .5;
+}
