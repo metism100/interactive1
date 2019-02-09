@@ -48,8 +48,8 @@ body {
   width: 300px;
   background-color: #27AAE1;
   /*width:50%;*/
-  top: 500px;
-  left: 250px;
+  top: 400px;
+  left: 450px;
   position: absolute;
   transform:rotate(52deg);
 }
