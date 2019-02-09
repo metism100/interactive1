@@ -29,7 +29,7 @@ body {
   height: 42px;
   width: 1000px;
   background-color: red;
-  top: 100px;
+  top: 85px;
   left: 0px;
   position: absolute;
 } 
@@ -37,7 +37,7 @@ body {
   height: 42px;
   width: 1000px;
   background-color: red;
-  top: 200px;
+  top: 255px;
   left: 0px;
   position: absolute;
 } 
@@ -45,7 +45,7 @@ body {
   height: 42px;
   width: 1000px;
   background-color: red;
-  top: 300px;
+  top: 425px;
   left: 0px;
   position: absolute;
 } 
