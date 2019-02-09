@@ -43,7 +43,7 @@ body {
   transform:rotate(-52deg);
 }
 
-#rectangle {
+#backrectangle1 {
   height: 40px;
   width: 350px;
   background-color: yellow;
