@@ -62,7 +62,7 @@ body {
   top: 400px;
   left: 250px;
   position: absolute;
-  transform:rotate(52deg);
+  transform:rotate(-52deg);
 }
 
 #backrectangle3 {
