@@ -22,8 +22,8 @@ body {
   height: 90px;
   width: 490px;
   background-color: yellow;
-  top: 90px;
-  left: 200px;
+  top: 30px;
+  left: 0px;
   position: absolute;
   opacity: .5;
 } 
