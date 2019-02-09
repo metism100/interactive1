@@ -21,7 +21,7 @@ body {
    margin: 50px 0;
        position: relative;
        display: block;
-       color: blue;
+       color: red;
        width: 0px;
        height: 0px;
        border-right:  100px solid transparent;
