@@ -39,7 +39,7 @@ body {
   top: 400px;
   left: 250px;
   position: absolute;
-  transform:rotate(-60deg);
+  transform:rotate(-40deg);
 }
 
 #rectangle2 {
