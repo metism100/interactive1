@@ -25,3 +25,27 @@ body {
   left: 0px;
   position: absolute;
 } 
+#stripe2 {
+  height: 50px;
+  width: 1000px;
+  background-color: red;
+  top: 60px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe3 {
+  height: 50px;
+  width: 1000px;
+  background-color: red;
+  top: 110px;
+  left: 0px;
+  position: absolute;
+} 
+#stripe4 {
+  height: 50px;
+  width: 1000px;
+  background-color: red;
+  top: 170px;
+  left: 0px;
+  position: absolute;
+} 
