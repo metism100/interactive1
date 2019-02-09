@@ -35,9 +35,9 @@ body {
  #rectangle1 {
   height: 37px;
   width: 250px;
-  background-color: #27AAE1;
+  background-color: orange;
   top: 400px;
-  left: 250px;
+  left: 260px;
   position: absolute;
   transform:rotate(-40deg);
 }
