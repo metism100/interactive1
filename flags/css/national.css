@@ -1,0 +1,27 @@
+* {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page black */
+body {
+        background: white;
+}
+
+/* flag canvas */
+#canvas {
+        width: 1000px;
+        height: 600px;
+        top: 70px;
+        left: 200px;
+        position: relative;
+        background: #EF4136;
+}
+
+#stripe1 {
+  height: 50px;
+  width: 1000px;
+  background-color: red;
+  top: 70px;
+  left: 200px;
+  position: absolute;
+} 
