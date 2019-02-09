@@ -18,7 +18,7 @@ body {
 }
 
 #stripe1 {
-  height: 40px;
+  height: 50px;
   width: 1000px;
   background-color: red;
   top: 0px;
@@ -26,42 +26,42 @@ body {
   position: absolute;
 } 
 #stripe2 {
-  height: 40px;
+  height: 50px;
   width: 1000px;
   background-color: red;
-  top: 80px;
+  top: 100px;
   left: 0px;
   position: absolute;
 } 
 #stripe3 {
-  height: 40px;
+  height: 50px;
   width: 1000px;
   background-color: red;
-  top: 160px;
+  top: 200px;
   left: 0px;
   position: absolute;
 } 
 #stripe4 {
-  height: 40px;
+  height: 50px;
   width: 1000px;
   background-color: red;
-  top: 260px;
+  top: 300px;
   left: 0px;
   position: absolute;
 } 
 #stripe5 {
-  height: 40px;
+  height: 50px;
   width: 1000px;
   background-color: red;
-  top: 340px;
+  top: 400px;
   left: 0px;
   position: absolute;
 } 
 #stripe6 {
-  height: 40px;
+  height: 50px;
   width: 1000px;
   background-color: red;
-  top: 420px;
+  top: 500px;
   left: 0px;
   position: absolute;
 } 
