@@ -41,6 +41,15 @@ body {
 }
 #star:hover { background: rgba(255,0,0,.5); } */
 
+#orange{
+  height: 200px;
+  width: 1000px;
+  background-color: orange;
+  top: 0px;
+  left: 50px;
+  position: absolute;
+}
+
 #star8 {
   top: 250px;
   left: 460px;
@@ -78,15 +87,6 @@ body {
         position: absolute;
         bottom: -60px;
         right: -60px;
-}
-
-#orange{
-  height: 200px;
-  width: 1000px;
-  background-color: orange;
-  top: 0px;
-  left: 50px;
-  position: absolute;
 }
 /*
 #s1 {
