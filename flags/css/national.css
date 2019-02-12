@@ -66,10 +66,10 @@ body {
  background: blue; width: 80px;
  height: 80px;
  position: relative;
- -webkit-transform: rotate(180deg);
- -moz-transform: rotate(180deg);
- -ms-transform: rotate(180deg);
- -o-transform: rotate(20eg);
+ -webkit-transform: rotate(180deg) .scale(.5);
+ -moz-transform: rotate(180deg) .scale(.5);
+ -ms-transform: rotate(180deg) .scale(.5);
+ -o-transform: rotate(20eg) .scale(.5);
  }
 #star8:before {
  content: "";
@@ -79,10 +79,10 @@ body {
  height: 80px;
  width: 80px;
  background: blue;
- -webkit-transform: rotate(320deg);
- -moz-transform: rotate(320deg);
- -ms-transform: rotate(320deg);
- -o-transform: rotate(320deg);
+ -webkit-transform: rotate(320deg) .scale(.5);
+ -moz-transform: rotate(320deg).scale(.5);
+ -ms-transform: rotate(320deg) .scale(.5);
+ -o-transform: rotate(320deg) .scale(.5);
  }
 
 #circle {
