@@ -79,10 +79,10 @@ body {
  height: 80px;
  width: 80px;
  background: #000088;
- -webkit-transform: rotate(315deg);
- -moz-transform: rotate(315deg);
- -ms-transform: rotate(315deg);
- -o-transform: rotate(315deg);
+ -webkit-transform: rotate(316deg);
+ -moz-transform: rotate(316deg);
+ -ms-transform: rotate(316deg);
+ -o-transform: rotate(316deg);
  }
 
 #circle {
