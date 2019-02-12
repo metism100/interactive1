@@ -46,7 +46,7 @@ body {
   width: 1000px;
   background-color: orange;
   top: 168px;
-  left: -422px;
+  left: -442px;
   position: absolute;
 }
 
@@ -54,7 +54,7 @@ body {
   height: 200px;
   width: 1000px;
   background-color: green;
-  bottom: 414px;
+  bottom: 415px;
   left: -15px;
   position: absolute;
 }
