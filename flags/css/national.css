@@ -79,6 +79,15 @@ body {
         bottom: -60px;
         right: -60px;
 }
+
+#orange{
+  height: 90px;
+  width: 490px;
+  background-color: yellow;
+  top: 60px;
+  left: 0px;
+  position: absolute;
+}
 /*
 #s1 {
    margin: 0px -70px;
