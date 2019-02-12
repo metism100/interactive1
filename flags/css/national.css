@@ -48,9 +48,9 @@ body {
  background: blue; width: 80px;
  height: 80px;
  position: relative;
- -webkit-transform: rotate(20deg);
- -moz-transform: rotate(20deg);
- -ms-transform: rotate(20deg);
+ -webkit-transform: rotate(90deg);
+ -moz-transform: rotate(90deg);
+ -ms-transform: rotate(90deg);
  -o-transform: rotate(20eg);
  }
 #star8:before {
@@ -61,10 +61,10 @@ body {
  height: 80px;
  width: 80px;
  background: blue;
- -webkit-transform: rotate(135deg);
- -moz-transform: rotate(135deg);
- -ms-transform: rotate(135deg);
- -o-transform: rotate(135deg);
+ -webkit-transform: rotate(180deg);
+ -moz-transform: rotate(180deg);
+ -ms-transform: rotate(180deg);
+ -o-transform: rotate(180deg);
  }
 
 #circle {
