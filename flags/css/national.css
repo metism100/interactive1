@@ -61,10 +61,10 @@ body {
  height: 80px;
  width: 80px;
  background: blue;
- -webkit-transform: rotate(300deg);
- -moz-transform: rotate(300deg);
- -ms-transform: rotate(300deg);
- -o-transform: rotate(300deg);
+ -webkit-transform: rotate(360deg);
+ -moz-transform: rotate(360deg);
+ -ms-transform: rotate(360deg);
+ -o-transform: rotate(360deg);
  }
 
 #circle {
