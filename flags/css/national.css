@@ -50,6 +50,15 @@ body {
   position: absolute;
 }
 
+#green{
+  height: 200px;
+  width: 1000px;
+  background-color: green;
+  bottom: 168px;
+  left: -422px;
+  position: absolute;
+}
+
 #star8 {
   top: 250px;
   left: 460px;
