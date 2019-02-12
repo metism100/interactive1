@@ -42,7 +42,7 @@ body {
 #star:hover { background: rgba(255,0,0,.5); } */
 
 #orange{
-  height: 212px;
+  height: 213px;
   width: 1000px;
   background-color: orange;
   top: 153px;
@@ -60,7 +60,7 @@ body {
 }
 
 #star8 {
-  top: 262px;
+  top: 263px;
   left: 460px;
  border: 3px solid blue;
  background: blue; width: 80px;
