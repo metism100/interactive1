@@ -68,7 +68,7 @@ body {
  }
 
 #circle {
-        border: 35px solid blue;
+        border: 25px solid blue;
         border-radius: 100%;
         z-index: 86;
         width: 150px;
