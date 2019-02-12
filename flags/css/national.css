@@ -76,8 +76,8 @@ body {
         /*background: blue;*/
         border-radius: 200px;
         position: absolute;
-        bottom: 390px;
-        right: 195px;
+        bottom: 0px;
+        right: 0px;
 }
 /*
 #s1 {
