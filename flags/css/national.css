@@ -42,8 +42,8 @@ body {
 #star:hover { background: rgba(255,0,0,.5); } */
 
 #star8 {
-  top: 100px;
-  left: 200px;
+  top: 300px;
+  left: 500px;
  border: 3px solid blue;
  background: blue; width: 80px;
  height: 80px;
