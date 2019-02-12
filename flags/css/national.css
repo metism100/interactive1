@@ -33,25 +33,29 @@ body {
 }
 #star:hover { background: rgba(255,0,0,.5); } */
 
-#star-six {
-width: 0;
-height: 0;
-border-left: 50px solid transparent;
-border-right: 50px solid transparent;
-border-bottom: 100px solid red;
-position: relative;
-}
-#star-six:after {
-width: 0;
-height: 0;
-border-left: 50px solid transparent;
-border-right: 50px solid transparent;
-border-top: 100px solid red;
-position: absolute;
-content: "";
-top: 30px;
-left: -50px;
-}
+#star8 {
+ border: 3px solid red;
+ background: blue; width: 80px;
+ height: 80px;
+ position: relative;
+ -webkit-transform: rotate(20deg);
+ -moz-transform: rotate(20deg);
+ -ms-transform: rotate(20deg);
+ -o-transform: rotate(20eg);
+ }
+#star8:before {
+ content: "";
+ position: absolute;
+ top: 0;
+ left: 0;
+ height: 80px;
+ width: 80px;
+ background: blue;
+ -webkit-transform: rotate(135deg);
+ -moz-transform: rotate(135deg);
+ -ms-transform: rotate(135deg);
+ -o-transform: rotate(135deg);
+ }
 
 #circle {
 
