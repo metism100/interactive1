@@ -4,7 +4,7 @@
 
 /* make the background of the page black */
 body {
-        background: tan;
+        background: #D3EDF4;
 }
 
 /* flag canvas */
@@ -53,7 +53,7 @@ body {
 #green{
   height: 200px;
   width: 1000px;
-  background-color: green;
+  background-color: #128807;
   bottom: 400px;
   left: 0px;
   position: absolute;
@@ -63,7 +63,7 @@ body {
   top: 263px;
   left: 460px;
  border: 3px solid blue;
- background: blue; width: 80px;
+ background: #000088; width: 80px;
  height: 80px;
  position: relative;
  -webkit-transform: rotate(180deg);
@@ -78,7 +78,7 @@ body {
  left: 0;
  height: 80px;
  width: 80px;
- background: blue;
+ background: #000088;
  -webkit-transform: rotate(320deg);
  -moz-transform: rotate(320deg);
  -ms-transform: rotate(320deg);
@@ -86,7 +86,7 @@ body {
  }
 
 #circle {
-        border: 15px solid blue;
+        border: 15px solid #000088;
         border-radius: 100%;
         z-index: 86;
         width: 120px;
