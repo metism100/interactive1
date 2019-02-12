@@ -68,7 +68,16 @@ body {
  }
 
 #circle {
-
+        border: 35px solid blue;
+        border-radius: 100%;
+        z-index: 86;
+        width: 150px;
+        height: 150px;
+        /*background: blue;*/
+        border-radius: 200px;
+        position: absolute;
+        top: 190px;
+        left: 395px;
 }
 /*
 #s1 {
