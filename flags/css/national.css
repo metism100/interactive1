@@ -42,7 +42,7 @@ body {
 #star:hover { background: rgba(255,0,0,.5); } */
 
 #orange{
-  height: 213px;
+  height: 210px;
   width: 1000px;
   background-color: #FF9933;
   top: 153px;
@@ -51,7 +51,7 @@ body {
 }
 
 #green{
-  height: 213px;
+  height: 210px;
   width: 1000px;
   background-color: #128807;
   bottom: 400px;
