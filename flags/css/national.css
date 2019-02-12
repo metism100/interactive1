@@ -45,8 +45,8 @@ body {
   height: 200px;
   width: 1000px;
   background-color: orange;
-  top: 70px;
-  left: 400px;
+  top: 120px;
+  left: -400px;
   position: absolute;
 }
 
