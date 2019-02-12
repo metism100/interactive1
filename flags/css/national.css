@@ -8,6 +8,34 @@ body {
 }
 
 /* flag canvas */
+#star {
+  width: 10em; height: 8.66em;
+  background: rgba(0,0,0,.5);
+  transition: .5s;
+  cursor: pointer;
+}
+#star {
+  position: relative;
+  margin: 4em auto;
+  transform: rotate(-30deg) skewX(30deg);
+}
+.#star:before, #star:after {
+  position: absolute;
+  width: inherit; height: inherit;
+  background: inherit;
+  content: '';
+}
+#star:before {
+  transform: skewX(-30deg) skewX(-30deg);
+}
+#star:after {
+  transform: skewX(-30deg) rotate(-60deg) skewX(-30deg);
+}
+#star:hover { background: rgba(255,0,0,.5); }
+
+#circle {
+
+}
 /*
 #s1 {
    margin: 0px -70px;
