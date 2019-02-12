@@ -81,10 +81,10 @@ body {
 }
 
 #orange{
-  height: 90px;
-  width: 490px;
-  background-color: yellow;
-  top: 60px;
+  height: 300px;
+  width: 1000px;
+  background-color: orange;
+  top: 0px;
   left: 0px;
   position: absolute;
 }
