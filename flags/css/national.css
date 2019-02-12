@@ -86,11 +86,11 @@ body {
  }
 
 #circle {
-        border: 25px solid blue;
+        border: 15px solid blue;
         border-radius: 100%;
         z-index: 86;
-        width: 150px;
-        height: 150px;
+        width: 120px;
+        height: 120px;
         /*background: blue;*/
         border-radius: 200px;
         position: absolute;
