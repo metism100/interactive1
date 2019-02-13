@@ -85,7 +85,7 @@ body {
  -o-transform: rotate(316deg);
  }
 
- star8:hover {
+ #star8:hover {
   -webkit-transform: rotate(90deg);
  -moz-transform: rotate(90deg);
  -ms-transform: rotate(90deg);
