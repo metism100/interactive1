@@ -93,9 +93,9 @@ body {
  }
 
 #star9:hover {
-  /*cursor: default;
-    transform: rotate(90deg);
-    transition: all 0.3s ease-in-out 0s;*/
+  cursor: default;
+    transform: color(red);
+    transition: all 0.3s ease-in-out 0s;
 }
 
 #circle {
