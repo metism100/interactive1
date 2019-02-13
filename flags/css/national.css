@@ -47,7 +47,7 @@ body {
   background-color: #FF9933;
   top: 161px;
   left: -437px;
-  position: static;
+  position: absolute;
 }
 
 #green{
@@ -56,7 +56,7 @@ body {
   background-color: #128807;
   bottom: 400px;
   left: 0px;
-  position: static;
+  position: absolute;
 }
 
 #star8 {
@@ -65,7 +65,7 @@ body {
  border: 3px solid #000088;
  background: #000088; width: 80px;
  height: 80px;
- position: static;
+ position: absolute;
  -webkit-transform: rotate(180deg);
  -moz-transform: rotate(180deg);
  -ms-transform: rotate(180deg);
@@ -73,7 +73,7 @@ body {
  }
 #star9 {
  content: "";
- position: static;
+ position: absolute;
  top: 258px;
  left: 460px;
  height: 80px;
