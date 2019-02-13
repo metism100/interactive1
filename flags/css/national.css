@@ -89,7 +89,7 @@ body {
   background: blue;
   cursor: default;
     transform: rotate(360deg);
-   /* transition: all 0.3s ease-in-out 0s;*/
+   transition: all 0.3s ease-in-out 0s;
  }
 
 #star9:hover {
