@@ -74,8 +74,8 @@ body {
 #star9 {
  content: "";
  position: absolute;
- top: 0;
- left: 0;
+ top: 258px;
+ left: 460;
  height: 80px;
  width: 80px;
  background: #000088;
