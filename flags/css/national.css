@@ -73,7 +73,7 @@ body {
  }
 #star9 {
  content: "";
- position: absolute;
+ position: static;
  top: 258px;
  left: 460px;
  height: 80px;
