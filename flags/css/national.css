@@ -85,10 +85,6 @@ body {
  -o-transform: rotate(316deg);
  }
 
- #star8:hover {
-  -webkit-transform: rotate(360deg);
-          transform: rotate(360deg);
-}
 
 #circle {
         border: 15px solid #000088;
