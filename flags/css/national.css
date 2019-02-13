@@ -90,7 +90,11 @@ body {
  }
 
 #star9:hover{
-  background: blue;
+  background: red;
+
+  #star8:hover{
+    color: red;
+  }
 }
 
 #circle {
