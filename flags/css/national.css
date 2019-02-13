@@ -93,7 +93,7 @@ body {
  }
 
 #star9:hover {
-  background-color: blue;
+  background-color: orange;
   cursor: pointer;
   -webkit-transition: background-color 1s ease-out;
   -moz-transition: background-color 1s ease-out;
