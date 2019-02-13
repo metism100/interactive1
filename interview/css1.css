@@ -89,6 +89,10 @@ h2 {
   padding-top: 195px;
 }
 
+#filter-1977 {
+  filter: sepia(.5) hue-rotate(-30deg) saturate(1.4);
+}
+
 
 .centered {
   position: absolute;
