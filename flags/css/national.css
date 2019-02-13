@@ -89,6 +89,10 @@ body {
   background: blue;
  }
 
+#star8:before hover{
+  background:yellow;
+}
+
 #circle {
         border: 15px solid #000088;
         border-radius: 100%;
