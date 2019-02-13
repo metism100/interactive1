@@ -86,14 +86,15 @@ body {
  }
 
  #star8:hover {
-  background: blue;
+  background: #2FC2C9;
+  border: 3px solid #2FC2C9;
   cursor: default;
     transform: rotate(360deg);
    transition: all 0.3s ease-in-out 0s;
  }
 
 #star9:hover {
-  background-color: orange;
+  background-color: #2FC2C9;
   cursor: pointer;
   -webkit-transition: background-color 1s ease-out;
   -moz-transition: background-color 1s ease-out;
