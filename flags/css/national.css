@@ -57,6 +57,7 @@ body {
   bottom: 400px;
   left: 0px;
   position: absolute;
+  position: static;
 }
 
 #star8 {
