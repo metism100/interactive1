@@ -71,7 +71,7 @@ body {
  -ms-transform: rotate(180deg);
  -o-transform: rotate(20eg);
  }
-#star8:before {
+#star9 {
  content: "";
  position: absolute;
  top: 0;
