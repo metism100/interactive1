@@ -100,6 +100,16 @@ body {
   -moz-transition: background-color 1s ease-out;
   -o-transition: background-color 1s ease-out;
   transition: background-color 1s ease-out;
+  border: 100px solid #2FC2C9;
+        border-radius: 100%;
+        z-index: 86;
+        width: 120px;
+        height: 120px;
+        /*background: blue;*/
+        border-radius: 200px;
+        position: absolute;
+        bottom: -35px;
+        right: -35px;
 }
 
 #circle {
