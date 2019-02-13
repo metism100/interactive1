@@ -86,11 +86,13 @@ body {
  }
 
  #star8:hover {
-  background: purple;
+  background: blue;
  }
 
 #star9:hover {
-  background: orange;
+  cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.3s ease-in-out 0s;
 }
 
 #circle {
