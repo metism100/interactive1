@@ -101,7 +101,7 @@ body {
   -o-transition: background-color 1s ease-out;
   transition: background-color 1s ease-out;
   border: 10px solid #2FC2C9;
-        border-radius: 0%;
+        border-radius: 100%;
         z-index: 86;
         width: 120px;
         height: 120px;
