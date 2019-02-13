@@ -94,7 +94,7 @@ body {
 
 #star9:hover {
   cursor: default;
-    transform: color(red);
+    transform: red;
     transition: all 0.3s ease-in-out 0s;
 }
 
