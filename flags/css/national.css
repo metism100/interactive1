@@ -87,6 +87,13 @@ body {
 
  #star8:hover {
   -webkit-transform: scale(50);
+
+  height: 200px;
+  width: 1000px;
+  background-color: #128807;
+  bottom: 400px;
+  left: 0px;
+  position: absolute;
  }
 
 #circle {
