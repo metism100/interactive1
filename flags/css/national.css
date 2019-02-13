@@ -86,7 +86,7 @@ body {
  }
 
  #star8:hover {
-   scale: 150%;
+  -webkit-transform:; rotate(90deg);
  }
 
 #circle {
