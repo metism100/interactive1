@@ -95,7 +95,7 @@ body {
 }
 
 @keyframes canvas{
-  0% (background #E891E3);
-  50% (background #E891E3);
-  100% (background #E891E3);
+  0% {background: #E891E3;}
+  50% {background: #E891E3;}
+  100% {background: #E891E3;}
 }
