@@ -100,5 +100,5 @@ body {
 }
 
 #rectangle1{
-  animation:background 2000ms alternate infinite;
+  animation:background 2s alternate infinite;
 }
