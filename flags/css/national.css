@@ -83,6 +83,10 @@ body {
  -moz-transform: rotate(316deg);
  -ms-transform: rotate(316deg);
  -o-transform: rotate(316deg);
+ -webkit-transition: all .01s ease-in;
+  -moz-transition: all .01s ease-in;
+  -o-transition: all .01s ease-in;
+  transition: all .01s ease-in;
  }
 
  #star8:hover {
@@ -96,10 +100,10 @@ body {
 #star9:hover {
   background-color: #2FC2C9;
   cursor: pointer;
-  -webkit-transition: background-color 1s ease-out;
-  -moz-transition: background-color 1s ease-out;
-  -o-transition: background-color 1s ease-out;
-  transition: background-color 1s ease-out;
+  -webkit-transition: all 2s ease-out;
+  -moz-transition: all 2s ease-out;
+  -o-transition: all 2s ease-out;
+  transition: all 2s ease-out;
   border: 10px solid #2FC2C9;
         border-radius: 100%;
         z-index: 86;
@@ -108,8 +112,8 @@ body {
         /*background: blue;*/
         border-radius: 100px;
         position: absolute;
-        top: 5px;
-        left: 5px;
+        top:239px;
+        left:437px;
 }
 
 #circle {
