@@ -16,6 +16,7 @@ body {
         left: 200px;
         position: relative;
         background: #EF4136;
+         animation: canvas 2s alternate infinite;
 }
 /* shapes */
 #backrectangle1 {
@@ -93,12 +94,8 @@ body {
   opacity: .5;
 }
 
-@keyframes circle{
+@keyframes canvas{
   0% (background #E891E3);
   50% (background #E891E3);
   100% (background #E891E3);
-}
-
-#circle{
-  animation: circle 2s alternate infinite;
 }
