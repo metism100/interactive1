@@ -93,12 +93,12 @@ body {
   opacity: .5;
 }
 
-@keyframes background{
+@keyframes rectangle1{
   0% (background #E891E3);
   50% (background #E891E3);
   100% (background #E891E3);
 }
 
 #rectangle1{
-  animation:background 2s alternate infinite;
+  animation:rectangle1 2s alternate infinite;
 }
