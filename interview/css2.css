@@ -91,6 +91,26 @@ h2{
   padding-left: 280px;
 }
 
+h3{
+  padding-top: 1200px;
+  font-family: "Helvetica";
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  padding-top: 10px;
+  padding-left: 280px;
+}
+
+h3{
+  padding-top: 1400px;
+  font-family: "Helvetica";
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  padding-top: 10px;
+  padding-left: 280px;
+}
+
 p{
   font-family: "Baskerville";
   font-size: 25px;
