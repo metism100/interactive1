@@ -27,6 +27,7 @@ body {
   left: 0px;
   position: absolute;
   opacity: .5;
+  animation: backrectangle1 2s alternate infinite;
 } 
 
 #backrectangle2 {
@@ -95,6 +96,12 @@ body {
 }
 
 @keyframes canvas{
+  0% {background: #EF4136;}
+  50% {background: #7A94F4;}
+  100% {background: #F4F17D;}
+}
+
+@keyframes backrectangle1{
   0% {background: #EF4136;}
   50% {background: #7A94F4;}
   100% {background: #F4F17D;}
