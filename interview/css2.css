@@ -14,11 +14,11 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: white;
 }
-
+/*
 p{
   font-family: "Roboto", sans-serif;
   line-height: 17px;
-}
+}*/
 
 b{
   font-family: "Roboto", sans-serif;
@@ -92,32 +92,29 @@ h2{
 }
 
 h3{
-  padding-top: 1300px;
+  padding-top:90px;
   font-family: "Helvetica";
   font-size: 30px;
   font-weight: bold;
   color: black;
-  padding-top: 10px;
   padding-left: 280px;
 }
 
 h4{
-  padding-top: 1900px;
+  padding-top: 90px;
   font-family: "Helvetica";
   font-size: 30px;
   font-weight: bold;
   color: black;
-  padding-top: 10px;
   padding-left: 280px;
 }
 
 h5{
-  padding-top: 2300px;
+  padding-top: 90px;
   font-family: "Helvetica";
   font-size: 30px;
   font-weight: bold;
   color: black;
-  padding-top: 10px;
   padding-left: 280px;
 }
 
@@ -141,16 +138,6 @@ v2{
   padding-top: 3200px;
 }
 
-v3{
-  font-family: "Baskerville";
-  font-size: 25px;
-  font-weight: normal;
-  color: black;
-  padding-left: 280px;
-  line-height: 35px;
-  padding-top: 3200px;
-}
-}
 
 p{
   font-family: "Baskerville";
@@ -170,6 +157,15 @@ v{
   padding-left: 280px;
   line-height: 35px;
   padding-bottom: 80px;
+}
+
+v3{
+  font-family: "Baskerville";
+  font-size: 100px;
+  font-weight: normal;
+  color: black;
+  padding-right: 250px;
+  /*padding-top: 90px;*/
 }
 
 ul {
