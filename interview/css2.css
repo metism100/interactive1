@@ -92,7 +92,7 @@ h2{
 }
 
 h3{
-  padding-top: 1200px;
+  padding-top: 1300px;
   font-family: "Helvetica";
   font-size: 30px;
   font-weight: bold;
@@ -101,14 +101,34 @@ h3{
   padding-left: 280px;
 }
 
-h3{
-  padding-top: 1400px;
+h4{
+  padding-top: 1900px;
   font-family: "Helvetica";
   font-size: 30px;
   font-weight: bold;
   color: black;
   padding-top: 10px;
   padding-left: 280px;
+}
+
+h5{
+  padding-top: 2300px;
+  font-family: "Helvetica";
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  padding-top: 10px;
+  padding-left: 280px;
+}
+
+v1{
+  font-family: "Baskerville";
+  font-size: 25px;
+  font-weight: normal;
+  color: black;
+  padding-left: 280px;
+  line-height: 35px;
+  padding-bottom: 200px;
 }
 
 p{
