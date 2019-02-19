@@ -131,6 +131,16 @@ v1{
   padding-top: 3200px;
 }
 
+v2{
+  font-family: "Baskerville";
+  font-size: 25px;
+  font-weight: normal;
+  color: black;
+  padding-left: 280px;
+  line-height: 35px;
+  padding-top: 3200px;
+}
+
 p{
   font-family: "Baskerville";
   font-size: 25px;
