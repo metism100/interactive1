@@ -52,6 +52,7 @@ body {
         position: absolute;
         top: 190px;
         left: 395px;
+        animation: circle 300ms alternate infinite;
 }
 
  #rectangle1 {
@@ -137,6 +138,12 @@ body {
 }
 
 @keyframes rectangle3{
+  0% {background: #FF9022;}
+  /*50% {background: #FF22E0;}*/
+  100% {background: #FF22E0;}
+}
+
+@keyframes circle{
   0% {background: #FF9022;}
   /*50% {background: #FF22E0;}*/
   100% {background: #FF22E0;}
