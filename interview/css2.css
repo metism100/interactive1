@@ -167,28 +167,11 @@ v3{
   padding-right: 250px;
   /*padding-top: 90px;*/
 }
-v4{
-  font-family: "Baskerville";
-  font-size: 100px;
-  font-weight: normal;
-  color: black;
-  padding-right: 450px;
-  /*p
-  adding-top: 90px;*/
-}
-v5{
-  font-family: "Baskerville";
-  font-size: 100px;
-  font-weight: normal;
-  color: black;
-  padding-right: 250px;
-  /*padding-top: 90px;*/
-}
 
 ul {
   list-style-type: circle;
   margin: 100;
-  left-padding: 1000px;
+  
   color:black;
 }
 
