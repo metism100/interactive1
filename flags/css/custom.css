@@ -38,6 +38,7 @@ body {
   left: 0px;
   position: absolute;
   opacity: .5;
+  animation: backrectangle2 2s alternate infinite;
 } 
 
 #circle {
@@ -93,6 +94,7 @@ body {
   left: 510px;
   position: absolute;
   opacity: .5;
+  animation: backrectangle3 2s alternate infinite;
 }
 
 @keyframes canvas{
@@ -102,6 +104,18 @@ body {
 }
 
 @keyframes backrectangle1{
+  0% {background: #7CF27C;}
+  50% {background: #7CE7F2;}
+  100% {background: #F27CD9;}
+}
+
+@keyframes backrectangle2{
+  0% {background: #7CF27C;}
+  50% {background: #7CE7F2;}
+  100% {background: #F27CD9;}
+}
+
+@keyframes backrectangle3{
   0% {background: #7CF27C;}
   50% {background: #7CE7F2;}
   100% {background: #F27CD9;}
