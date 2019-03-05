@@ -29,7 +29,7 @@ body {
       display:none;
     }
 /* hidden message */
-@media (max-width: 1024px) {
+@media (max-width: 1224px) {
     body {
         background: #FFDFB0;
     }
