@@ -1,0 +1,1979 @@
+
+* {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page black */
+body {
+        background: white;
+}
+
+/* shapes */
+#rectangle1 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle0 2s;
+  animation-fill-mode: forwards;
+} 
+
+@keyframes rectangle0{
+  0% {opacity: 0;}
+  100% {opacity: 0;}
+}
+
+@keyframes rectangle1{
+  0% {opacity: 0;}
+  100% {opacity: .5;}
+}
+
+#rectangle2 {
+  height: 500px;
+  width: 400px;
+  background-color: black;
+  top: 70px;
+  left: 570px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle2 2s;
+  animation-delay: 5s;
+  animation-fill-mode: forwards; 
+  
+} 
+
+@keyframes rectangle2{
+  0% {opacity: 0;}
+  100% {opacity: .5;}
+}
+
+#rectangle3 {
+  height: 300px;
+  width: 330px;
+  background-color: black;
+  top: 50px;
+  left: 150px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 10s;
+  animation-fill-mode: forwards; 
+} 
+
+@keyframes rectangle3{
+  0% {opacity: 0;}
+  100% {opacity: .5;}
+}
+
+#rectangle4 {
+  height: 350px;
+  width: 450px;
+  background-color: black;
+  top: 250px;
+  left: 70px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle1 2s;
+  animation-delay: 13s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle5 {
+  height: 400px;
+  width: 400px;
+  background-color: black;
+  top: 250px;
+  left: 370px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle2 2s;
+  animation-delay: 15s;
+  animation-fill-mode: forwards; 
+  
+} 
+
+#rectangle6 {
+  height: 400px;
+  width: 400px;
+  background-color: black;
+  top: 450px;
+  left: 650px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 16s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle7 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 450px;
+  left: 350px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 17s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle8 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 450px;
+  left: 350px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 18s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle9 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 350px;
+  left: 350px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 19s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle10 {
+  height: 700px;
+  width: 700px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 19.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle11 {
+  height: 250px;
+  width: 300px;
+  background-color: black;
+  top: 20px;
+  left: 60px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 20s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle12 {
+  height: 400px;
+  width: 600px;
+  background-color: black;
+  top: 45px;
+  left: 15px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 20.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle13 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 21s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle14 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 21.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle15 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 200px;
+  left: 600px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 22s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle16 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 200px;
+  left: 90px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 22.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle17 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 100px;
+  left: 650px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 23s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle18 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 23.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle19 {
+  height: 1000px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 24s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle19 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 24.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle20 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 400px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 25s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle21 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 25.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle22 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 26s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle23 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 200px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 27s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle23 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 27.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle24 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 28s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle25 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 28.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle26 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 0px;
+  left: 1300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 29s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle27 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 30px;
+  left: 1200px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 29.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle28 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 1100px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 30s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle29 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 100px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 30.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle29 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 100px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 31s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle30 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 31.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle31 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 32s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle32 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 32.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle33 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 1300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 33s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle34 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 1300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 33.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle35 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 34s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle36 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 34.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle37 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 35s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle38 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 35.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle38 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 36s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle39 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1100px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 36.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle40 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 37s;
+  animation-fill-mode: forwards; 
+}
+
+#rectangle41 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 37.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle42 {
+  height: 500px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 38s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle43 {
+  height: 500px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 38.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle44 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 600px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 39s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle45 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 39.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle46 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 40s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle47 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 40.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle48 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 41s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle49 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 41.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle50 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 42s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle51 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 42.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle52 {
+  height: 500px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 43s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle53 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 43.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle54 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 44s;
+  animation-fill-mode: forwards; 
+}
+
+#rectangle55 {
+  height: 500px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 44.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle56 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 45s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle57 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 45.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle58 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 46s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle59 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 46.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle60 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 47s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle61 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 47.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle62 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 48s;
+  animation-fill-mode: forwards; 
+} 
+
+
+#rectangle63 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 1300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 48.5s;
+  animation-fill-mode: forwards; 
+} 
+
+
+#rectangle64 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 49s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle65 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 49.5s;
+  animation-fill-mode: forwards; 
+} 
+
+
+#rectangle66 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 50s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle67 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 300px;
+  position: absolute;
+  opacity: 0;
+  animation-delay: 50.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle68 {
+  height: 500px;
+  width: 400px;
+  background-color: black;
+  top: 70px;
+  left: 570px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle2 2s;
+  animation-delay: 51s;
+  animation-fill-mode: forwards; 
+  
+} 
+
+#rectangle69 {
+  height: 300px;
+  width: 330px;
+  background-color: black;
+  top: 50px;
+  left: 150px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 51.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle70 {
+  height: 350px;
+  width: 450px;
+  background-color: black;
+  top: 250px;
+  left: 70px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle1 2s;
+  animation-delay: 51.4s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle71 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle1 2s;
+  nimation-delay: 51.6s;
+  animation-fill-mode: forwards; 
+} 
+
+@keyframes rectangle1{
+  0% {opacity: 0;}
+  100% {opacity: .5;}
+}
+
+#rectangle72 {
+  height: 500px;
+  width: 400px;
+  background-color: black;
+  top: 70px;
+  left: 570px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle2 2s;
+  animation-delay: 51.8s;
+  animation-fill-mode: forwards; 
+  
+} 
+
+@keyframes rectangle2{
+  0% {opacity: 0;}
+  100% {opacity: .5;}
+}
+
+#rectangle73 {
+  height: 300px;
+  width: 330px;
+  background-color: black;
+  top: 50px;
+  left: 150px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 52s;
+  animation-fill-mode: forwards; 
+} 
+
+@keyframes rectangle3{
+  0% {opacity: 0;}
+  100% {opacity: .5;}
+}
+
+#rectangle74 {
+  height: 350px;
+  width: 450px;
+  background-color: black;
+  top: 250px;
+  left: 70px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle1 2s;
+  animation-delay: 52.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle75 {
+  height: 400px;
+  width: 400px;
+  background-color: black;
+  top: 250px;
+  left: 370px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle2 2s;
+  animation-delay: 52.4s;
+  animation-fill-mode: forwards; 
+  
+} 
+
+#rectangle76 {
+  height: 400px;
+  width: 400px;
+  background-color: black;
+  top: 450px;
+  left: 650px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 52.6s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle77 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 450px;
+  left: 350px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 52.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle78 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 450px;
+  left: 350px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 53s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle79 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 350px;
+  left: 350px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 53.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle80 {
+  height: 700px;
+  width: 700px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 53.4s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle81 {
+  height: 250px;
+  width: 300px;
+  background-color: black;
+  top: 20px;
+  left: 60px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 53.6s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle82 {
+  height: 400px;
+  width: 600px;
+  background-color: black;
+  top: 45px;
+  left: 15px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 53.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle83 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 54s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle84 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 54.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle85 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 200px;
+  left: 600px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 54.4s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle86 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 200px;
+  left: 90px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 54.6s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle87 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 100px;
+  left: 650px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 54.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle88 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 55s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle89 {
+  height: 1000px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 55.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle90 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 55.4s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle91 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 400px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 55.6s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle92 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 55.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle93 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 56s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle94 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 200px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 56.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle95 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 56.4s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle96 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 56.6s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle97 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 56.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle98 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 0px;
+  left: 1300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 57s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle99 {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  top: 30px;
+  left: 1200px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 57.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle100 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 1100px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 57.4s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle101 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 100px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 57.6s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle102 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 100px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 57.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle103 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle104 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58.1s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle105 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle106{
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 1300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58.3s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle107 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 1300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58.4s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle108 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle109 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58.6s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle110 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58.7s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle111 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle112 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 58.9s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle113 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1100px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle114 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59.1s;
+  animation-fill-mode: forwards; 
+}
+
+#rectangle115 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle116 {
+  height: 500px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59.3s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle117 {
+  height: 500px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59.4s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle118 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 600px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle119 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 700px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59.6s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle120 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59.7s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle121 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle122 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 59.9s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle123 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle124 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60.1s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle125 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle126 {
+  height: 500px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60.3s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle127 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60.4s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle128 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60.5s;
+  animation-fill-mode: forwards; 
+}
+
+#rectangle129 {
+  height: 500px;
+  width: 1000px;
+  background-color: black;
+  top: 0px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60.6s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle130 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 1000px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60.7s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle131 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle132 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 60.9s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle133 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 61s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle134 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 61.1s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle135 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 0px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 61.2s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle136 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 61.3s;
+  animation-fill-mode: forwards; 
+} 
+
+
+#rectangle137 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 1300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 61.4s;
+  animation-fill-mode: forwards; 
+} 
+
+
+#rectangle138 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 0px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 61.5s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle139 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 400px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 61.6s;
+  animation-fill-mode: forwards; 
+} 
+
+
+#rectangle140 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 500px;
+  left: 500px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 61.7s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle141 {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  top: 300px;
+  left: 300px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle1 2s;
+  animation-delay: 61.8s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle142 {
+  height: 500px;
+  width: 400px;
+  background-color: black;
+  top: 70px;
+  left: 570px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle2 2s;
+  animation-delay: 61.9s;
+  animation-fill-mode: forwards; 
+  
+} 
+
+#rectangle143 {
+  height: 300px;
+  width: 330px;
+  background-color: black;
+  top: 50px;
+  left: 150px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle3 2s;
+  animation-delay: 62s;
+  animation-fill-mode: forwards; 
+} 
+
+#rectangle144 {
+  height: 350px;
+  width: 450px;
+  background-color: black;
+  top: 250px;
+  left: 70px;
+  position: absolute;
+  opacity: 0;
+  animation: rectangle1 2s;
+  animation-delay: 62.1s;
+  animation-fill-mode: forwards; 
+} 
