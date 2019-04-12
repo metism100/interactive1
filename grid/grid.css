@@ -1,0 +1,547 @@
+body{
+	background:white;
+}
+
+#warn {
+  position: fixed;
+  top: 150px;
+  right: 400px;
+  background-image: url("warn.png");
+  background-size: 100%;
+  height: 600px;
+  width: 700px;
+  animation-name: rectangle1;
+  animation-duration: 6s;
+  animation-delay:0s;
+  animation-fill-mode: forwards;
+}
+
+#t1 {
+	position: fixed;
+	top: 0px;
+	background-image: url("t1.png");
+	background-size: 100%;
+  height: 390px;
+	width: 50%;
+}
+
+
+#t1s{
+  position: fixed;
+  top: 400px;
+  right: 200px;
+  background-image: url("t1.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+
+#t2 {
+	position: fixed;
+	top: 0px;
+	background-image: url("t2.png");
+	background-size: 100%;
+	height: 390px;
+	width: 712px;
+	opacity: 0;
+}
+
+
+#t2s{
+  position: fixed;
+  top: 120px;
+  right: 100px;
+  background-image: url("t2.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t3 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t3.png");
+  background-size: 100%;
+    height: 390px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t3s{
+  position: fixed;
+  top: 250px;
+  right: 700px;
+  background-image: url("t3.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t4 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t4.png");
+  background-size: 100%;
+  height: 390px;
+  width: 712px;
+  opacity: 0;
+}
+
+#t4s{
+  position: fixed;
+  top: 530px;
+  right: 950px;
+  background-image: url("t4.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t5 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t5.png");
+  background-size: 100%;
+    height: 290px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t5s{
+  position: fixed;
+  top: 530px;
+  right: 0px;
+  background-image: url("t5.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t6 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t6.png");
+  background-size: 100%;
+    height: 390px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t6s{
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background-image: url("t6.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t7 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t7.png");
+  background-size: 100%;
+    height: 390px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t7s{
+  position: fixed;
+  top: 500px;
+  right: 450px;
+  background-image: url("t7.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t8 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t8.png");
+  background-size: 100%;
+    height: 390px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t8s{
+  position: fixed;
+  top: 350px;
+  right: -30px;
+  background-image: url("t8.png");
+  background-size: 100%;
+  height: 170px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t9 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t9.png");
+  background-size: 100%;
+  height: 390px;
+  width: 712px;
+  opacity: 0;
+}
+
+#t9s{
+  position: fixed;
+  top: 330px;
+  right: 950px;
+  background-image: url("t9.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t10 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t10.png");
+  background-size: 100%;
+    height: 370px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t10s{
+  position: fixed;
+  top: 370px;
+  right: -220px;
+  background-image: url("t10.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t11 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t11.png");
+  background-size: 100%;
+    height: 390px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t11s{
+  position: fixed;
+  top: -150px;
+  right: 50px;
+  background-image: url("t11.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t12 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t12.png");
+  background-size: 100%;
+    height: 390px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t12s{
+  position: fixed;
+  top: 250px;
+  right: 700px;
+  background-image: url("t12.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t13 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t13.png");
+  background-size: 100%;
+    height: 390px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t13s{
+  position: fixed;
+  top: 120px;
+  right: 200px;
+  background-image: url("t13.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+
+#t14 {
+  position: fixed;
+  top: 0px;
+  background-image: url("t14.png");
+  background-size: 100%;
+    height: 390px;
+  width: 50%;
+  opacity: 0;
+}
+
+#t14s{
+  position: fixed;
+  top: 250px;
+  right: 700px;
+  background-image: url("t14.png");
+  background-size: 100%;
+  height: 270px;
+  width: 500px;
+  opacity: 0;
+}
+/*@media only screen and (max-width: 600px) {*/
+/*  #d1{
+  	position: fixed;
+	top: 20%;
+	left: 350px;
+    height: 300px;
+	width: 400px;  
+	opacity: 0;
+  }*/
+
+#d{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+   #d1{
+    position: fixed;
+    top: 19%;
+    left: 250px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+  #d2{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+  #d3{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+  #d4{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+  #d5{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+  #d6{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+  #d7{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+  #d8{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+  #d9{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+  #d10{
+    position: fixed;
+    top: 19%;
+    left: 300px;
+    height: 300px;
+    width: 400px;  
+    opacity: 0;
+  }
+
+/*  #d2{
+  position: fixed;
+  top: 20%;
+  left: 350px;
+   height: 300px;
+  width: 400px;  
+  opacity: 0;
+  }*/
+
+@keyframes rectangle0{
+  0% {opacity: 1;}
+  50% {opacity: 1;}
+  100% {opacity: 0;}
+}
+
+@keyframes rectangle1{
+  0% {opacity: 1;}
+  80% {opacity: 1;}
+  100% {opacity: 0;}
+}
+
+.grid-item {
+  background-color: lightblue;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: 200px 50px 50px 50px 100px; /*
+  /*grid-gap: 20px 40px;*/
+
+}
+
+#item-1 {
+  height: 30%;
+  width: 45%;
+  background-image: url("forward.png");
+  background-size: 100%;
+  top: -03%;
+  left: 202%;
+  position: relative;
+}
+
+#item-2 {
+  height: 30%;
+  width: 45%;
+  /*background-color: blue;*/
+  background-image: url("delete.png");
+  background-size: 100%;
+  top: 30%;
+  left: 102%;
+  position: relative;
+}
+
+/*item-1 {
+  background: orange;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 3;  
+}
+
+#item-2 {
+  background: blue;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 3;  
+}*/
+
+.show{
+	opacity: 1 !important;
+}
+
+.showF{
+	animation-play-state: paused;
+	animation-name: rectangle0;
+	/*animation-duration: 3s;*/
+/*	animation-delay:2s;
+    animation-fill-mode: forwards;*/
+}
+@media (max-width: 600px) {
+	#d1{
+  	position: fixed;
+	top: 20%;
+	left: 0px;
+  /*  background-image: url("aa-1.png");
+    background-size: 400px;*/
+    height: 150px;
+	width: 150px;  
+	opacity: 0;
+	}
+
+	#t1 {
+	position: fixed;
+	top: 0px;
+	background-image: url("eh2.png");
+	background-size: 100%;
+  	height: 110px;
+	width: 50%;
+	}
+
+	#item-1 {
+  	height: 10%;
+  	width: 45%;
+  	background-image: url("forward.png");
+  	background-size: 100%;
+  	top: 0%;
+  	left: 210%;
+  	position: relative;
+	}
+
+	#item-2 {
+ 	 height: 10%;
+ 	 width: 45%;
+ 	 /*background-color: blue;*/
+ 	 background-image: url("delete.png");
+ 	 background-size: 100%;
+ 	 top: 10%;
+ 	 left: 109%;
+	 position: relative;
+}
+}
+
