@@ -12,7 +12,7 @@ function orcountfunction() {
     console.log(orclickcount.length);
 
         if(orclickcount.length === 1){
-            first();
+            ofirst();
         }
         if(orclickcount.length === 2){
             orfirst();
@@ -41,7 +41,7 @@ function orcountfunction() {
         }
 }
 
-function first() {
+function ofirst() {
      document.getElementById("d").style.opacity = "1";
      document.getElementById("d").style.animationPlayState = "running";
      document.getElementById("d").style.animationDuration = "3s";
